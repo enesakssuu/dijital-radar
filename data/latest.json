@@ -1,123 +1,129 @@
 {
   "date": "2026-06-29",
-  "generatedAt": "2026-06-29T05:00:00.000Z",
+  "generatedAt": "2026-06-29T06:42:29.162Z",
   "readingTime": "6 dk okuma",
   "hero": {
-    "title": "AI Search ve GEO dijital görünürlüğün yeni merkezi oluyor",
-    "summary": "Arama motorları ve üretken AI yanıtları, markaların yalnızca sıralama değil kaynak gösterilme ve cevaplarda yer alma hedefiyle içerik üretmesini gerekli hale getiriyor.",
+    "title": "Google: AI Görünürlüğü, İnsanların Gerçekten Okumak İstediği İçeriğe Bağlı",
+    "summary": "Google, yapay zeka destekli aramalarda hayatta kalmak isteyen yayıncıların, kullanıcıların gerçekten okumak istediği içerikler üretmeye başlaması gerektiğini belirtti.",
     "body": [
-      "AI destekli arama deneyimleri kullanıcıya daha doğrudan cevap verdiği için klasik organik trafik davranışını değiştiriyor. Bu nedenle içeriklerin yalnızca arama sonucunda görünmesi değil, AI yanıtlarında güvenilir kaynak olarak kullanılabilecek şekilde yapılandırılması önem kazanıyor.",
-      "Dijital Radar açısından bugünün ana konusu, SEO çalışmalarının GEO ve AEO mantığıyla yeniden ele alınmasıdır. Kısa cevap kutuları, uzman imzası, net kaynaklama, güncel tarih ve güçlü soru-cevap yapıları bu dönüşümde öne çıkar."
+      "Google, yapay zeka destekli arama sonuçlarında görünürlük kazanmanın anahtarının, kullanıcıların ilgisini çeken ve okumak istediği içerikler üretmek olduğunu vurguladı.",
+      "Search Engine Journal tarafından aktarılan bilgilere göre, içerik üreticilerinin yapay zeka çağında başarılı olmak için kullanıcı odaklı içerik stratejileri geliştirmesi gerekiyor."
     ],
     "category": "SEO / GEO",
-    "sourceName": "Dijital Radar",
-    "url": "",
-    "publishedAt": "2026-06-29T05:00:00.000Z",
-    "slug": "ai-search-ve-geo-dijital-gorunurlugun-yeni-merkezi-oluyor"
+    "sourceName": "Search Engine Journal",
+    "url": "https://www.searchenginejournal.com/google-says-make-content-people-want-to-read/580642/",
+    "publishedAt": "2026-06-28T11:00:56.000Z",
+    "slug": "google-ai-gorunurlugu-insanlarin-gercekten-okumak-istedigi-icerige-bagli"
   },
   "articles": [
     {
-      "title": "Google AI Overviews SEO raporlamasını yeniden yorumlatıyor",
-      "summary": "Sıralaması iyi olan içeriklerde bile tıklama düşüşü görülebileceği için CTR, sorgu tipi ve AI görünürlüğü birlikte takip edilmeli.",
+      "title": "Çin'in Z.ai Modeli, Siber Güvenlikte Mythos ile Yarışıyor",
+      "summary": "Çin'in Zhipu AI'si GLM-5.2 modelini yayımladı. Bazı araştırmacılar, belirli hata bulma ve siber güvenlik senaryolarında Mythos ile eşdeğer olduğunu iddia ediyor.",
       "body": [
-        "AI Overviews ve benzeri arama deneyimleri, kullanıcının cevabı arama sonucunda almasını kolaylaştırıyor. Bu durum özellikle bilgilendirici sağlık içeriklerinde tıklama davranışını değiştirebilir.",
-        "GSC tarafında pozisyonu iyi ama CTR değeri düşük olan sorgular ayrıca incelenmeli. Bu sorgular için başlık, meta açıklama, kısa cevap alanı ve FAQ yapısı yeniden ele alınabilir."
+        "GLM-5.2, Anthropic ve OpenAI modellerinin genel görevlerinde geride kalırken, Çin bu alanda yetenek farkını önemli ölçüde kapattı.",
+        "Bu gelişme, Çin'in yapay zeka alanında siber güvenlikte rekabetçi bir konuma geldiğini gösteriyor."
+      ],
+      "category": "AI",
+      "sourceName": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+      "publishedAt": "2026-06-28T21:42:51.000Z",
+      "readingTime": "3 dk",
+      "slug": "cin-in-z-ai-modeli-siber-guvenlikte-mythos-ile-yarisiyor"
+    },
+    {
+      "title": "Suno, Bağımsız Sanatçılar İçin Spark Kuluçka Programını Başlattı",
+      "summary": "Suno, bağımsız sanatçılara hibe, mentorluk ve pazarlama desteği sunan Spark programını duyurdu. Amaç, sanatçıları AI müzik makinesine beslemek.",
+      "body": [
+        "Program, sözleşmesiz şarkıcı ve söz yazarlarına yönelik olup, sanatçıların başvuru yapması gerekiyor.",
+        "Suno, AI destekli müzik üretiminde yenilikçi bir platform olmayı hedefliyor."
+      ],
+      "category": "AI",
+      "sourceName": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
+      "publishedAt": "2026-06-28T20:27:36.000Z",
+      "readingTime": "3 dk",
+      "slug": "suno-bagimsiz-sanatcilar-icin-spark-kulucka-programini-baslatti"
+    },
+    {
+      "title": "Ford, Yapay Zeka Yetersiz Kalınca Deneyimli Mühendisleri Yeniden İşe Aldı",
+      "summary": "Ford, yapay zekanın beklentileri karşılamaması üzerine deneyimli mühendislerini tekrar kadrosuna kattı.",
+      "body": [
+        "Şirket, yapay zekanın yüksek kaliteli ürün üretimi için tek başına yeterli olmadığını kabul etti.",
+        "Bu adım, otomotiv sektöründe insan uzmanlığının önemini yeniden gündeme getirdi."
+      ],
+      "category": "AI",
+      "sourceName": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+      "publishedAt": "2026-06-28T19:05:39.000Z",
+      "readingTime": "3 dk",
+      "slug": "ford-yapay-zeka-yetersiz-kalinca-deneyimli-muhendisleri-yeniden-ise-aldi"
+    },
+    {
+      "title": "Arama ve AI Temelli Asistanlar Tek Ürün, Tek Strateji Yeterli",
+      "summary": "Google, arama ve AI asistanlarının ayrı stratejiler gerektirmediğini, tek bir oyun planıyla yönetilmesi gerektiğini açıkladı.",
+      "body": [
+        "Search Engine Journal'a göre, bu yaklaşım dijital pazarlama ve SEO stratejilerinde entegrasyonun önemini artırıyor.",
+        "Uzmanlar, içerik ve kullanıcı deneyiminin her iki alanda da uyumlu olması gerektiğini belirtiyor."
       ],
       "category": "SEO / GEO",
-      "sourceName": "Dijital Radar",
-      "url": "",
-      "publishedAt": "2026-06-29T05:00:00.000Z",
+      "sourceName": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/search-and-agents-are-one-product-you-only-need-one-playbook/576191/",
+      "publishedAt": "2026-06-28T12:00:52.000Z",
       "readingTime": "3 dk",
-      "slug": "google-ai-overviews-seo-raporlamasn-yeniden-yorumlatyor"
+      "slug": "arama-ve-ai-temelli-asistanlar-tek-urun-tek-strateji-yeterli"
     },
     {
-      "title": "Landing page içerikleri cevap odaklı yapıya dönüyor",
-      "summary": "Reklamdan gelen kullanıcılar uzun metin yerine işlem süresi, uygunluk, iyileşme ve danışmanlık adımlarını hızlı görmek istiyor.",
+      "title": "İyi SEO, İyi GEO'dur",
+      "summary": "Google, AI destekli arama çağında marka otoritesi, içerik ve veri stratejileriyle talep yaratma ve yakalama yöntemlerini paylaştı.",
       "body": [
-        "Landing page performansında ilk ekrandaki karar verme hızı daha önemli hale geliyor. Kullanıcı işlem hakkında güven veren kısa cevapları hızlıca görürse form veya WhatsApp etkileşimine daha kolay geçebilir.",
-        "Özellikle sağlık LP’lerinde kimler için uygun, işlem süresi, hastanede kalış, iyileşme ve doktor değerlendirmesi gibi alanlar standart modül haline getirilebilir."
+        "Think with Google, dijital pazarlamacılara AI çağında başarılı olmak için iyi SEO'nun iyi yerel arama optimizasyonu (GEO) anlamına geldiğini vurguluyor.",
+        "Marka otoritesi ve veri odaklı içerik stratejileri, yerel pazarlarda rekabet avantajı sağlıyor."
       ],
       "category": "Dijital Pazarlama",
-      "sourceName": "Dijital Radar",
-      "url": "",
-      "publishedAt": "2026-06-29T05:00:00.000Z",
+      "sourceName": "Think with Google",
+      "url": "https://www.thinkwithgoogle.com/marketing-strategies/automation/ai-search-era-brand-authority-strategy/?utm_source=twg-rss-reader&utm_medium=rss&utm_campaign=rss-feed",
+      "publishedAt": "2026-06-19T00:00:00.000Z",
       "readingTime": "3 dk",
-      "slug": "landing-page-icerikleri-cevap-odakl-yapya-donuyor"
-    },
-    {
-      "title": "Figma ve AI araçları web tasarım üretim hızını artırıyor",
-      "summary": "AI destekli tasarım araçları wireframe, varyasyon, mikro kopya ve prototip süreçlerinde daha hızlı deneme yapmayı sağlıyor.",
-      "body": [
-        "Web tasarım tarafında AI, sıfırdan tasarım yapmak yerine varyasyon üretme, ilk taslak çıkarma ve kullanıcı akışını hızla test etme alanlarında değerli hale geliyor.",
-        "LP hero alanları, doktor sayfası şablonları, sosyal medya carousel taslakları ve yönetim sunumları için hızlı konsept üretimi yapılabilir."
-      ],
-      "category": "Web Tasarım",
-      "sourceName": "Dijital Radar",
-      "url": "",
-      "publishedAt": "2026-06-29T05:00:00.000Z",
-      "readingTime": "3 dk",
-      "slug": "figma-ve-ai-araclar-web-tasarm-uretim-hzn-artryor"
-    },
-    {
-      "title": "WordPress tarafında AI destekli yarı otomasyon dönemi güçleniyor",
-      "summary": "İçerik taslağı, FAQ üretimi, schema hazırlığı, görsel alternatifi ve form şablonları AI ile daha hızlı standartlaştırılabilir.",
-      "body": [
-        "WordPress projelerinde AI’nin en pratik kullanımı tekrar eden üretim süreçlerini hızlandırmaktır. İçerik blokları, CF7 form yapıları, schema alanları ve çok dilli taslaklar bu kapsama girer.",
-        "Kurumsal web sitelerinde tamamen otomatik yayın yerine editör onaylı yarı otomasyon daha güvenli ve sürdürülebilir bir akış sağlar."
-      ],
-      "category": "Araçlar",
-      "sourceName": "Dijital Radar",
-      "url": "",
-      "publishedAt": "2026-06-29T05:00:00.000Z",
-      "readingTime": "3 dk",
-      "slug": "wordpress-tarafnda-ai-destekli-yar-otomasyon-donemi-gucleniyor"
-    },
-    {
-      "title": "Sağlıkta AI için veri kalitesi ve güven ön planda",
-      "summary": "Hastane tarafında AI kullanımı pazarlama, hasta deneyimi ve operasyonel verimlilikte fırsat sunsa da veri güvenliği ve doğruluk temel koşul olmaya devam ediyor.",
-      "body": [
-        "Sağlık sektöründe AI kullanımı yalnızca içerik üretimi veya chatbot ile sınırlı değildir. Hasta deneyimi, çağrı merkezi analizi, randevu akışı, CRM özetleri ve klinik dışı operasyonel otomasyonlar da önemli kullanım alanlarıdır.",
-        "Ancak kişisel sağlık verileri, KVKK, klinik doğruluk ve insan onayı bu alandaki tüm projelerde öncelikli kontrol noktası olmalıdır."
-      ],
-      "category": "Sağlık Sektörü",
-      "sourceName": "Dijital Radar",
-      "url": "",
-      "publishedAt": "2026-06-29T05:00:00.000Z",
-      "readingTime": "4 dk",
-      "slug": "saglkta-ai-icin-veri-kalitesi-ve-guven-on-planda"
+      "slug": "iyi-seo-iyi-geo-dur"
     }
   ],
   "highlights": [
-    "SEO tarafında yalnızca sıralama değil AI yanıtlarında görünürlük de izlenmeli.",
-    "Landing page içerikleri kısa cevap ve karar destek bloklarıyla güçlendirilmeli.",
-    "WordPress süreçlerinde AI destekli yarı otomasyon güvenli bir verimlilik alanı sunuyor.",
-    "Sağlıkta AI kullanımı için veri güvenliği ve insan onayı temel şart olmalı."
+    "Google, AI aramalarda görünürlük için kullanıcı odaklı içerik vurgusu yaptı.",
+    "Çin'in Z.ai modeli, siber güvenlikte Mythos ile rekabet ediyor.",
+    "Ford, yapay zeka yetersiz kalınca deneyimli mühendisleri yeniden işe aldı.",
+    "Arama ve AI asistanları için tek strateji yeterli, entegrasyon önemli."
   ],
   "quickNotes": [
-    "GSC’de pozisyonu iyi ama CTR değeri düşük sorgular ayrı raporlanmalı.",
-    "Doktor sayfalarında mini FAQ modülü SEO ve hasta güveni için avantaj sağlar.",
-    "LP’lerde işlem süresi, uygunluk ve iyileşme alanları standartlaştırılabilir.",
-    "Haftalık raporlara AI etkisi ve uygulanabilir aksiyon bölümü eklenebilir."
+    "Google'ın spam güncellemesi AI cevaplarını da kapsıyor, uygulama zor.",
+    "Bruce Clay, SEO'nun öncülerinden biri olarak hayatını kaybetti.",
+    "Suno'nun Spark programı bağımsız sanatçılara AI destekli müzikte fırsat sunuyor.",
+    "Airalo, gizlilik odaklı ölçümle iOS büyüme stratejisini dönüştürdü."
   ],
   "enesActions": [
     {
-      "title": "SMILE PRO LP için kısa cevap kutusu ekle",
-      "detail": "İlk ekranda kimler için uygun, işlem süresi ve ücretsiz değerlendirme adımlarını netleştir."
+      "title": "Web Sitesi İçerik Stratejisini Gözden Geçir",
+      "detail": "Google'ın AI arama görünürlüğü için kullanıcıların gerçekten okumak istediği içeriklere odaklanma önerisini dikkate alarak, Hisar Hospital Intercontinental web sitesindeki içeriklerin kullanıcı odaklı ve bilgilendirici olmasını sağla."
     },
     {
-      "title": "GSC’de sıralama var trafik yok filtresi oluştur",
-      "detail": "Ortalama pozisyonu 1-10 arasında olup CTR değeri düşük sorguları GEO etkisi açısından incele."
+      "title": "SEO ve Yerel Arama Optimizasyonunu Entegre Et",
+      "detail": "Google'ın arama ve AI asistanları için tek strateji yaklaşımını kullanarak, hem genel SEO hem de yerel arama optimizasyonu çalışmalarını uyumlu hale getir ve dijital pazarlama performansını artır."
     },
     {
-      "title": "Doktor sayfaları için mini FAQ şablonu hazırla",
-      "detail": "Her doktor profiline uzmanlık alanı, tedavi kapsamı ve hasta başvuru soruları eklenebilir."
-    },
-    {
-      "title": "Haftalık sunuma Dijital Radar bölümünü ekle",
-      "detail": "Günün haberlerinden çıkan 3 somut aksiyonu yönetim raporunda ayrı kutu olarak sun."
+      "title": "Dijital Pazarlama Kampanyalarında Veri Odaklı Yaklaşımı Güçlendir",
+      "detail": "Think with Google'ın önerdiği gibi, marka otoritesi ve veri stratejilerine yatırım yaparak sağlık sektöründe dijital pazarlama kampanyalarının etkinliğini artır."
     }
   ],
   "sources": [
+    {
+      "name": "Webrazzi",
+      "url": "https://webrazzi.com/feed/",
+      "category": "Dijital Pazarlama"
+    },
+    {
+      "name": "Pazarlamasyon",
+      "url": "https://www.pazarlamasyon.com/feed/",
+      "category": "Dijital Pazarlama"
+    },
     {
       "name": "Search Engine Land",
       "url": "https://searchengineland.com/feed",
