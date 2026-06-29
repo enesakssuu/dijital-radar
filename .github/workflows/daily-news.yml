@@ -1,0 +1,33 @@
+name: Dijital Radar Daily Update
+
+on:
+  schedule:
+    - cron: '0 5 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Update daily digest
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-4.1-mini' }}
+        run: npm run update
+
+      - name: Commit updated news data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'Update Dijital Radar daily digest'
+          file_pattern: data/latest.json data/archive/*.json data/archive-index.json

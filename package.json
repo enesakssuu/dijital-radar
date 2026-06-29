@@ -1,0 +1,14 @@
+{
+  "name": "dijital-radar",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Dijital pazarlama, web tasarım ve AI haberleri için otomatik güncellenen arşivli haber paneli.",
+  "scripts": {
+    "update": "node scripts/update-news.mjs",
+    "check": "node scripts/update-news.mjs --dry-run"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
