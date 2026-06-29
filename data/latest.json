@@ -12,7 +12,8 @@
     "category": "SEO / GEO",
     "sourceName": "Dijital Radar",
     "url": "",
-    "publishedAt": "2026-06-29T05:00:00.000Z"
+    "publishedAt": "2026-06-29T05:00:00.000Z",
+    "slug": "ai-search-ve-geo-dijital-gorunurlugun-yeni-merkezi-oluyor"
   },
   "articles": [
     {
@@ -26,7 +27,8 @@
       "sourceName": "Dijital Radar",
       "url": "",
       "publishedAt": "2026-06-29T05:00:00.000Z",
-      "readingTime": "3 dk"
+      "readingTime": "3 dk",
+      "slug": "google-ai-overviews-seo-raporlamasn-yeniden-yorumlatyor"
     },
     {
       "title": "Landing page içerikleri cevap odaklı yapıya dönüyor",
@@ -39,7 +41,8 @@
       "sourceName": "Dijital Radar",
       "url": "",
       "publishedAt": "2026-06-29T05:00:00.000Z",
-      "readingTime": "3 dk"
+      "readingTime": "3 dk",
+      "slug": "landing-page-icerikleri-cevap-odakl-yapya-donuyor"
     },
     {
       "title": "Figma ve AI araçları web tasarım üretim hızını artırıyor",
@@ -52,7 +55,8 @@
       "sourceName": "Dijital Radar",
       "url": "",
       "publishedAt": "2026-06-29T05:00:00.000Z",
-      "readingTime": "3 dk"
+      "readingTime": "3 dk",
+      "slug": "figma-ve-ai-araclar-web-tasarm-uretim-hzn-artryor"
     },
     {
       "title": "WordPress tarafında AI destekli yarı otomasyon dönemi güçleniyor",
@@ -65,7 +69,8 @@
       "sourceName": "Dijital Radar",
       "url": "",
       "publishedAt": "2026-06-29T05:00:00.000Z",
-      "readingTime": "3 dk"
+      "readingTime": "3 dk",
+      "slug": "wordpress-tarafnda-ai-destekli-yar-otomasyon-donemi-gucleniyor"
     },
     {
       "title": "Sağlıkta AI için veri kalitesi ve güven ön planda",
@@ -78,7 +83,8 @@
       "sourceName": "Dijital Radar",
       "url": "",
       "publishedAt": "2026-06-29T05:00:00.000Z",
-      "readingTime": "4 dk"
+      "readingTime": "4 dk",
+      "slug": "saglkta-ai-icin-veri-kalitesi-ve-guven-on-planda"
     }
   ],
   "highlights": [
@@ -112,16 +118,60 @@
     }
   ],
   "sources": [
-    { "name": "Search Engine Land", "url": "https://searchengineland.com/feed", "category": "SEO / GEO" },
-    { "name": "Search Engine Journal", "url": "https://www.searchenginejournal.com/feed/", "category": "SEO / GEO" },
-    { "name": "Google Ads Blog", "url": "https://blog.google/products/ads-commerce/rss/", "category": "Dijital Pazarlama" },
-    { "name": "Think with Google", "url": "https://www.thinkwithgoogle.com/rss.xml", "category": "Dijital Pazarlama" },
-    { "name": "TechCrunch AI", "url": "https://techcrunch.com/category/artificial-intelligence/feed/", "category": "AI" },
-    { "name": "The Verge AI", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "category": "AI" },
-    { "name": "Smashing Magazine", "url": "https://www.smashingmagazine.com/feed/", "category": "Web Tasarım" },
-    { "name": "Nielsen Norman Group", "url": "https://www.nngroup.com/feed/rss/", "category": "Web Tasarım" },
-    { "name": "WordPress Tavern", "url": "https://wptavern.com/feed", "category": "Araçlar" },
-    { "name": "Healthcare IT News", "url": "https://www.healthcareitnews.com/rss.xml", "category": "Sağlık Sektörü" },
-    { "name": "MobiHealthNews", "url": "https://www.mobihealthnews.com/rss.xml", "category": "Sağlık Sektörü" }
+    {
+      "name": "Search Engine Land",
+      "url": "https://searchengineland.com/feed",
+      "category": "SEO / GEO"
+    },
+    {
+      "name": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/feed/",
+      "category": "SEO / GEO"
+    },
+    {
+      "name": "Google Ads Blog",
+      "url": "https://blog.google/products/ads-commerce/rss/",
+      "category": "Dijital Pazarlama"
+    },
+    {
+      "name": "Think with Google",
+      "url": "https://www.thinkwithgoogle.com/rss.xml",
+      "category": "Dijital Pazarlama"
+    },
+    {
+      "name": "TechCrunch AI",
+      "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "AI"
+    },
+    {
+      "name": "The Verge AI",
+      "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "category": "AI"
+    },
+    {
+      "name": "Smashing Magazine",
+      "url": "https://www.smashingmagazine.com/feed/",
+      "category": "Web Tasarım"
+    },
+    {
+      "name": "Nielsen Norman Group",
+      "url": "https://www.nngroup.com/feed/rss/",
+      "category": "Web Tasarım"
+    },
+    {
+      "name": "WordPress Tavern",
+      "url": "https://wptavern.com/feed",
+      "category": "Araçlar"
+    },
+    {
+      "name": "Healthcare IT News",
+      "url": "https://www.healthcareitnews.com/rss.xml",
+      "category": "Sağlık Sektörü"
+    },
+    {
+      "name": "MobiHealthNews",
+      "url": "https://www.mobihealthnews.com/rss.xml",
+      "category": "Sağlık Sektörü"
+    }
   ]
 }

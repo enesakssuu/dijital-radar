@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Dijital Radar haber detayı.">
+  <title>Dijital Radar Haber</title>
+  <link rel="icon" href="assets/logo.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="index.html" aria-label="Dijital Radar ana sayfa">
+        <img src="assets/logo.svg" alt="Dijital Radar" width="260" height="64">
+      </a>
+      <nav class="top-nav" aria-label="Ana menü">
+        <a href="index.html">Bugün</a>
+        <a href="archive.html">Arşiv</a>
+        <a href="index.html#enes">Enes İçin</a>
+        <a href="index.html#sources">Kaynaklar</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="article-page">
+    <article class="wrap article-shell">
+      <nav class="breadcrumb" aria-label="İçerik yolu">
+        <a href="index.html">Dijital Radar</a>
+        <span>/</span>
+        <a id="breadcrumbDate" href="index.html">Yayın</a>
+      </nav>
+      <div class="article-category" id="articleCategory">Gündem</div>
+      <h1 id="articleTitle">Haber yükleniyor</h1>
+      <p class="article-summary" id="articleSummary">Haber detayı hazırlanıyor.</p>
+      <div class="article-meta" id="articleMeta"></div>
+      <div class="article-body" id="articleBody"></div>
+      <div class="article-footer-actions">
+        <a class="primary-link" id="articleSource" href="#" target="_blank" rel="noopener noreferrer">Orijinal kaynağı aç</a>
+        <a class="secondary-link" href="archive.html">Arşive dön</a>
+      </div>
+    </article>
+
+    <section class="wrap related-section">
+      <div class="section-head">
+        <div>
+          <div class="eyebrow">Devamını oku</div>
+          <h2>İlgili haberler</h2>
+        </div>
+      </div>
+      <div class="related-grid" id="relatedArticles"></div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap footer-inner">
+      <span>Dijital Radar</span>
+      <span>Haber detay sayfası</span>
+    </div>
+  </footer>
+
+  <script src="article.js" defer></script>
+</body>
+</html>

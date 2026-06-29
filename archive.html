@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Dijital Radar günlük haber arşivi.">
+  <title>Dijital Radar Arşiv</title>
+  <link rel="icon" href="assets/logo.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="index.html" aria-label="Dijital Radar ana sayfa">
+        <img src="assets/logo.svg" alt="Dijital Radar" width="260" height="64">
+      </a>
+      <nav class="top-nav" aria-label="Ana menü">
+        <a href="index.html">Bugün</a>
+        <a href="archive.html">Arşiv</a>
+        <a href="index.html#enes">Enes İçin</a>
+        <a href="index.html#sources">Kaynaklar</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap full-archive-page">
+    <div class="eyebrow">Arşiv</div>
+    <h1>Dijital Radar arşivi</h1>
+    <p>Eski günlük yayınlar burada tutulur. Bir güne tıklayınca o günün tam haber akışı ayrı sayfa olarak açılır.</p>
+
+    <section class="archive-toolbar" aria-label="Arşiv filtreleri">
+      <label class="search-box archive-search">
+        <span>Arama</span>
+        <input id="archiveSearch" type="search" placeholder="Tarih veya başlık ara">
+      </label>
+      <label class="archive-select">
+        <span>Kategori</span>
+        <select id="archiveCategory">
+          <option value="Tümü">Tüm kategoriler</option>
+        </select>
+      </label>
+    </section>
+
+    <section class="archive-full-list" id="archiveFullList"></section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap footer-inner">
+      <span>Dijital Radar arşivi</span>
+      <span>Otomatik kayıt destekli</span>
+    </div>
+  </footer>
+
+  <script src="archive.js" defer></script>
+</body>
+</html>

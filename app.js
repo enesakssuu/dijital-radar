@@ -2,7 +2,8 @@ const state = {
   latest: null,
   archiveIndex: [],
   selectedCategory: 'Tümü',
-  search: ''
+  search: '',
+  activeDate: null
 };
 
 const categories = ['Tümü', 'Dijital Pazarlama', 'Web Tasarım', 'AI', 'SEO / GEO', 'Araçlar', 'Sağlık Sektörü'];
@@ -12,6 +13,7 @@ const els = {
   heroSummary: document.getElementById('heroSummary'),
   heroMeta: document.getElementById('heroMeta'),
   heroCard: document.getElementById('heroCard'),
+  heroLink: document.getElementById('heroLink'),
   highlightsList: document.getElementById('highlightsList'),
   quickNotesList: document.getElementById('quickNotesList'),
   categoryTabs: document.getElementById('categoryTabs'),
@@ -21,13 +23,8 @@ const els = {
   archiveList: document.getElementById('archiveList'),
   sourceList: document.getElementById('sourceList'),
   lastUpdated: document.getElementById('lastUpdated'),
-  modal: document.getElementById('articleModal'),
-  modalCategory: document.getElementById('modalCategory'),
-  modalTitle: document.getElementById('modalTitle'),
-  modalSummary: document.getElementById('modalSummary'),
-  modalBody: document.getElementById('modalBody'),
-  modalSource: document.getElementById('modalSource'),
-  refreshArchive: document.getElementById('refreshArchive')
+  refreshArchive: document.getElementById('refreshArchive'),
+  pageDateLabel: document.getElementById('pageDateLabel')
 };
 
 async function getJson(path) {
@@ -39,6 +36,33 @@ async function getJson(path) {
 function formatDate(dateString) {
   if (!dateString) return '';
   return new Intl.DateTimeFormat('tr-TR', { dateStyle: 'long' }).format(new Date(dateString));
+}
+
+function slugify(text = '') {
+  return text
+    .toString()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/ı/g, 'i').replace(/İ/g, 'i')
+    .replace(/ğ/g, 'g').replace(/Ğ/g, 'g')
+    .replace(/ü/g, 'u').replace(/Ü/g, 'u')
+    .replace(/ş/g, 's').replace(/Ş/g, 's')
+    .replace(/ö/g, 'o').replace(/Ö/g, 'o')
+    .replace(/ç/g, 'c').replace(/Ç/g, 'c')
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '')
+    .slice(0, 90) || 'haber';
+}
+
+function getArticleSlug(article) {
+  return article.slug || slugify(article.title);
+}
+
+function articleUrl(article, type = 'article') {
+  const date = state.latest?.date || state.activeDate || new Date().toISOString().slice(0, 10);
+  const slug = getArticleSlug(article);
+  return `article.html?date=${encodeURIComponent(date)}&type=${encodeURIComponent(type)}&slug=${encodeURIComponent(slug)}`;
 }
 
 function renderTabs() {
@@ -57,10 +81,9 @@ function renderHero() {
     <span class="meta-pill">${hero.category || 'Gündem'}</span>
     <span>${state.latest.readingTime || '5 dk okuma'}</span>
   `;
-  els.heroCard.onclick = () => openArticle(hero);
-  els.heroCard.onkeydown = event => {
-    if (event.key === 'Enter' || event.key === ' ') openArticle(hero);
-  };
+  const href = articleUrl(hero, 'hero');
+  els.heroCard.href = href;
+  if (els.heroLink) els.heroLink.href = href;
 }
 
 function renderSide() {
@@ -83,8 +106,8 @@ function renderNews() {
     els.newsGrid.innerHTML = '<div class="empty-state">Bu filtre için haber bulunamadı.</div>';
     return;
   }
-  els.newsGrid.innerHTML = articles.map((article, index) => `
-    <article class="news-card" tabindex="0" role="button" data-index="${index}" aria-label="${article.title} haberini aç">
+  els.newsGrid.innerHTML = articles.map(article => `
+    <a class="news-card" href="${articleUrl(article, 'article')}" aria-label="${article.title} haberini oku">
       <div class="card-top">
         <span class="category-label">${article.category}</span>
         <span class="source-badge">${article.sourceName || 'Kaynak'}</span>
@@ -95,15 +118,9 @@ function renderNews() {
         <span>${article.publishedAt ? formatDate(article.publishedAt) : formatDate(state.latest.date)}</span>
         <span>${article.readingTime || '3 dk'}</span>
       </div>
-    </article>
+      <span class="read-more">Haberi oku</span>
+    </a>
   `).join('');
-  [...els.newsGrid.querySelectorAll('.news-card')].forEach((card, index) => {
-    const article = articles[index];
-    card.onclick = () => openArticle(article);
-    card.onkeydown = event => {
-      if (event.key === 'Enter' || event.key === ' ') openArticle(article);
-    };
-  });
 }
 
 function renderActions() {
@@ -129,40 +146,11 @@ function renderArchive() {
     return;
   }
   els.archiveList.innerHTML = state.archiveIndex.map(item => `
-    <button class="archive-item" type="button" data-date="${item.date}">
+    <a class="archive-item" href="index.html?date=${encodeURIComponent(item.date)}">
       <strong>${formatDate(item.date)}</strong>
       <span>${item.articleCount || 0} haber</span>
-    </button>
+    </a>
   `).join('');
-  els.archiveList.querySelectorAll('.archive-item').forEach(button => {
-    button.onclick = async () => {
-      const date = button.dataset.date;
-      const data = await getJson(`data/archive/${date}.json`);
-      state.latest = data;
-      state.selectedCategory = 'Tümü';
-      state.search = '';
-      els.searchInput.value = '';
-      renderAll();
-      window.scrollTo({ top: 0, behavior: 'smooth' });
-    };
-  });
-}
-
-function openArticle(article) {
-  els.modalCategory.textContent = article.category || 'Gündem';
-  els.modalTitle.textContent = article.title;
-  els.modalSummary.textContent = article.summary;
-  const paragraphs = article.body?.length ? article.body : [article.summary];
-  els.modalBody.innerHTML = paragraphs.map(text => `<p>${text}</p>`).join('');
-  els.modalSource.href = article.url || '#';
-  els.modalSource.style.display = article.url ? 'inline-flex' : 'none';
-  els.modal.classList.add('open');
-  els.modal.setAttribute('aria-hidden', 'false');
-}
-
-function closeModal() {
-  els.modal.classList.remove('open');
-  els.modal.setAttribute('aria-hidden', 'true');
 }
 
 function renderAll() {
@@ -173,17 +161,29 @@ function renderAll() {
   renderActions();
   renderSources();
   renderArchive();
+  if (els.pageDateLabel) {
+    els.pageDateLabel.textContent = state.latest?.date ? `${formatDate(state.latest.date)} yayını` : 'Bugünün yayını';
+  }
   els.lastUpdated.textContent = state.latest?.generatedAt ? `Son güncelleme: ${new Date(state.latest.generatedAt).toLocaleString('tr-TR')}` : 'Son güncelleme hazırlanıyor';
+}
+
+async function loadDigestForCurrentUrl() {
+  const params = new URLSearchParams(window.location.search);
+  const date = params.get('date');
+  state.activeDate = date;
+  if (date) return getJson(`data/archive/${date}.json`);
+  return getJson('data/latest.json');
 }
 
 async function init() {
   try {
     const [latest, archiveIndex] = await Promise.all([
-      getJson('data/latest.json'),
+      loadDigestForCurrentUrl(),
       getJson('data/archive-index.json').catch(() => [])
     ]);
     state.latest = latest;
     state.archiveIndex = archiveIndex;
+    document.title = latest?.date ? `Dijital Radar - ${formatDate(latest.date)}` : 'Dijital Radar';
     renderAll();
   } catch (error) {
     els.newsGrid.innerHTML = `<div class="empty-state">Veri yüklenemedi. Detay: ${error.message}</div>`;
@@ -203,17 +203,11 @@ els.searchInput.addEventListener('input', event => {
   renderNews();
 });
 
-els.modal.addEventListener('click', event => {
-  if (event.target.dataset.close) closeModal();
-});
-
-document.addEventListener('keydown', event => {
-  if (event.key === 'Escape') closeModal();
-});
-
-els.refreshArchive.addEventListener('click', async () => {
-  state.archiveIndex = await getJson('data/archive-index.json').catch(() => []);
-  renderArchive();
-});
+if (els.refreshArchive) {
+  els.refreshArchive.addEventListener('click', async () => {
+    state.archiveIndex = await getJson('data/archive-index.json').catch(() => []);
+    renderArchive();
+  });
+}
 
 init();

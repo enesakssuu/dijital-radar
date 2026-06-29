@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Dijital pazarlama, web tasarım ve AI gündemini her gün otomatik özetleyen arşivli haber paneli.">
+  <meta name="description" content="Dijital pazarlama, web tasarım ve AI gündemini her gün otomatik özetleyen arşivli Türkçe haber paneli.">
   <title>Dijital Radar</title>
   <link rel="icon" href="assets/logo.svg" type="image/svg+xml">
   <link rel="stylesheet" href="styles.css">
@@ -11,12 +11,12 @@
 <body>
   <header class="site-header">
     <div class="wrap header-inner">
-      <a class="brand" href="#today" aria-label="Dijital Radar ana sayfa">
+      <a class="brand" href="index.html" aria-label="Dijital Radar ana sayfa">
         <img src="assets/logo.svg" alt="Dijital Radar" width="260" height="64">
       </a>
       <nav class="top-nav" aria-label="Ana menü">
-        <a href="#today">Bugün</a>
-        <a href="#archive">Arşiv</a>
+        <a href="index.html">Bugün</a>
+        <a href="archive.html">Arşiv</a>
         <a href="#enes">Enes İçin</a>
         <a href="#sources">Kaynaklar</a>
       </nav>
@@ -25,12 +25,13 @@
 
   <main>
     <section id="today" class="wrap hero-layout">
-      <div class="hero-card" id="heroCard" tabindex="0" role="button" aria-label="Günün manşetini aç">
-        <div class="eyebrow">Günün Manşeti</div>
+      <a class="hero-card" id="heroCard" href="article.html" aria-label="Günün manşetini oku">
+        <div class="eyebrow" id="pageDateLabel">Bugünün yayını</div>
         <h1 id="heroTitle">Dijital Radar yükleniyor</h1>
         <p id="heroSummary">Günlük dijital pazarlama, web tasarım ve AI haberleri hazırlanıyor.</p>
         <div class="meta-line" id="heroMeta"></div>
-      </div>
+        <span class="hero-read-link">Manşeti oku</span>
+      </a>
       <aside class="side-panel" aria-label="Günün özet paneli">
         <div class="panel-block">
           <h2>Bugünün Öne Çıkanları</h2>
@@ -55,9 +56,9 @@
 
     <section id="enes" class="wrap enes-panel">
       <div>
-        <div class="eyebrow orange">Kişisel Aksiyon Paneli</div>
+        <div class="eyebrow orange">Kişisel Aksiyon Alanı</div>
         <h2>Enes için doğrudan kullanılabilecekler</h2>
-        <p>Bugünkü gelişmelerden Hisar Hospital web tasarım ve dijital pazarlama çalışmalarına çevrilebilecek uygulanabilir notlar.</p>
+        <p>Bugünkü gelişmelerden yola çıkarak Hisar Hospital’daki dijital pazarlama ve web tasarım çalışmalarında uygulanabilecek somut notlar.</p>
       </div>
       <div class="action-grid" id="enesActions"></div>
     </section>
@@ -66,9 +67,12 @@
       <div class="section-head">
         <div>
           <div class="eyebrow">Arşiv</div>
-          <h2>Eski bültenler</h2>
+          <h2>Eski yayınlar</h2>
         </div>
-        <button class="ghost-button" id="refreshArchive" type="button">Arşivi yenile</button>
+        <div class="archive-actions">
+          <a class="ghost-button" href="archive.html">Tüm arşivi aç</a>
+          <button class="ghost-button" type="button" id="refreshArchive">Yenile</button>
+        </div>
       </div>
       <div class="archive-list" id="archiveList"></div>
     </section>
@@ -77,26 +81,12 @@
       <div class="section-head">
         <div>
           <div class="eyebrow">Kaynaklar</div>
-          <h2>Bugün taranan kaynaklar</h2>
+          <h2>Takip edilen yayınlar</h2>
         </div>
       </div>
       <div class="source-list" id="sourceList"></div>
     </section>
   </main>
-
-  <div class="modal" id="articleModal" aria-hidden="true">
-    <div class="modal-backdrop" data-close="true"></div>
-    <article class="modal-card" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
-      <button class="modal-close" type="button" aria-label="Kapat" data-close="true">Kapat</button>
-      <div class="modal-category" id="modalCategory"></div>
-      <h2 id="modalTitle"></h2>
-      <p class="modal-summary" id="modalSummary"></p>
-      <div class="modal-body" id="modalBody"></div>
-      <div class="modal-footer">
-        <a id="modalSource" href="#" target="_blank" rel="noopener noreferrer">Kaynağı aç</a>
-      </div>
-    </article>
-  </div>
 
   <footer class="site-footer">
     <div class="wrap footer-inner">

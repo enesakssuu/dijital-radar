@@ -19,6 +19,8 @@ const CATEGORIES = [
 ];
 
 const FEEDS = [
+  { name: 'Webrazzi', category: 'Dijital Pazarlama', url: 'https://webrazzi.com/feed/' },
+  { name: 'Pazarlamasyon', category: 'Dijital Pazarlama', url: 'https://www.pazarlamasyon.com/feed/' },
   { name: 'Search Engine Land', category: 'SEO / GEO', url: 'https://searchengineland.com/feed' },
   { name: 'Search Engine Journal', category: 'SEO / GEO', url: 'https://www.searchenginejournal.com/feed/' },
   { name: 'Google Ads Blog', category: 'Dijital Pazarlama', url: 'https://blog.google/products/ads-commerce/rss/' },
@@ -152,6 +154,33 @@ function dedupe(items) {
   });
 }
 
+
+function slugify(text = '') {
+  return removeEmoji(text)
+    .toString()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/ı/g, 'i').replace(/İ/g, 'i')
+    .replace(/ğ/g, 'g').replace(/Ğ/g, 'g')
+    .replace(/ü/g, 'u').replace(/Ü/g, 'u')
+    .replace(/ş/g, 's').replace(/Ş/g, 's')
+    .replace(/ö/g, 'o').replace(/Ö/g, 'o')
+    .replace(/ç/g, 'c').replace(/Ç/g, 'c')
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '')
+    .slice(0, 90) || 'haber';
+}
+
+function addSlugs(digest) {
+  if (digest.hero) digest.hero.slug = digest.hero.slug || slugify(digest.hero.title);
+  digest.articles = (digest.articles || []).map(article => ({
+    ...article,
+    slug: article.slug || slugify(article.title)
+  }));
+  return digest;
+}
+
 function fallbackDigest(items, date) {
   const selected = items.slice(0, Math.min(MAX_ITEMS, items.length));
   const heroItem = selected[0] || {
@@ -224,7 +253,8 @@ Sen Dijital Radar adlı Türkçe bir haber bülteni editörüsün. Konular: diji
 Kurallar:
 - Çıktıyı yalnızca geçerli JSON olarak ver.
 - Emoji kullanma.
-- Türkçe yaz.
+- Türkçe yaz. Kaynak İngilizce olsa bile tüm haber başlıklarını, özetleri, gövde metinlerini ve kişisel aksiyonları Türkçeye çevir.
+- Site arayüzünde ve JSON içeriğinde kullanıcıya görünen hiçbir metin İngilizce kalmasın; yalnızca kaynak marka adları orijinal kalabilir.
 - Kısa, profesyonel, haber sitesi üslubunda yaz.
 - Sağlık iddialarında kesin tıbbi öneri verme; dijital pazarlama ve teknoloji etkisine odaklan.
 - Enes, Hisar Hospital Intercontinental’da web tasarım ve dijital pazarlama uzmanı. En altta onun kullanabileceği somut aksiyonlar üret.
@@ -313,7 +343,7 @@ function normalizeDigest(digest, rawItems, date) {
     title: removeEmoji(action.title || ''),
     detail: removeEmoji(action.detail || '')
   }));
-  return normalized;
+  return addSlugs(normalized);
 }
 
 async function readJson(file, fallback) {
@@ -335,6 +365,7 @@ async function updateArchiveIndex(date, digest) {
   const nextItem = {
     date,
     title: digest.hero.title,
+    category: digest.hero.category || 'Gündem',
     articleCount: digest.articles.length,
     generatedAt: digest.generatedAt
   };
