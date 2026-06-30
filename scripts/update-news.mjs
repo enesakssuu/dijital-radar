@@ -192,7 +192,7 @@ function fallbackDigest(items, date) {
   };
   const articles = selected.slice(0, 9).map(item => ({
     title: item.title,
-    summary: item.summary || 'Kaynakta öne çıkan gelişme kısa özetlenemedi. Detay için kaynağı açabilirsiniz.',
+    summary: item.summary || 'Kaynakta öne çıkan gelişme 2-3 cümlelik açıklayıcı özetlenemedi. Detay için kaynağı açabilirsiniz.',
     body: [
       item.summary || 'Bu haberin detayları kaynak bağlantısında yer alır.',
       'Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı.'
