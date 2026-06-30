@@ -19,7 +19,7 @@ const els = {
   categoryTabs: document.getElementById('categoryTabs'),
   searchInput: document.getElementById('searchInput'),
   newsGrid: document.getElementById('newsGrid'),
-  enesActions: document.getElementById('enesActions'),
+  hhWebActions: document.getElementById('enesActions'),
   archiveList: document.getElementById('archiveList'),
   sourceList: document.getElementById('sourceList'),
   lastUpdated: document.getElementById('lastUpdated'),
@@ -124,8 +124,8 @@ function renderNews() {
 }
 
 function renderActions() {
-  const actions = state.latest?.enesActions || [];
-  els.enesActions.innerHTML = actions.map(item => `
+  const actions = state.latest?.hhWebActions || state.latest?.enesActions || [];
+  els.hhWebActions.innerHTML = actions.map(item => `
     <div class="action-item">
       <strong>${item.title}</strong>
       <span>${item.detail}</span>

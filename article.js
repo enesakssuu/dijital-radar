@@ -6,7 +6,14 @@ const els = {
   body: document.getElementById('articleBody'),
   source: document.getElementById('articleSource'),
   related: document.getElementById('relatedArticles'),
-  breadcrumbDate: document.getElementById('breadcrumbDate')
+  breadcrumbDate: document.getElementById('breadcrumbDate'),
+  sharePreview: document.getElementById('sharePreview'),
+  nativeShareButton: document.getElementById('nativeShareButton'),
+  copyShareButton: document.getElementById('copyShareButton'),
+  whatsappShareButton: document.getElementById('whatsappShareButton'),
+  linkedinShareButton: document.getElementById('linkedinShareButton'),
+  xShareButton: document.getElementById('xShareButton'),
+  shareStatus: document.getElementById('shareStatus')
 };
 
 async function getJson(path) {
@@ -39,6 +46,63 @@ function slugify(text = '') {
 
 function getSlug(article) {
   return article.slug || slugify(article.title);
+}
+
+
+function buildShareText(article, digest) {
+  const pageUrl = window.location.href;
+  const summary = article.summary ? article.summary.replace(/\s+/g, ' ').trim() : '';
+  const source = article.sourceName ? `Kaynak: ${article.sourceName}` : 'Kaynak: Dijital Radar';
+  const category = article.category ? `Kategori: ${article.category}` : 'Kategori: Dijital gündem';
+  return [
+    `Dijital Radar: ${article.title}`,
+    '',
+    summary,
+    '',
+    `${category} | ${source}`,
+    pageUrl,
+    '',
+    '#DijitalRadar #DijitalPazarlama #AI'
+  ].filter(Boolean).join('\n');
+}
+
+function setupShare(article, digest) {
+  const url = window.location.href;
+  const text = buildShareText(article, digest);
+  const encodedText = encodeURIComponent(text);
+  const encodedUrl = encodeURIComponent(url);
+
+  if (els.sharePreview) els.sharePreview.textContent = text;
+  if (els.whatsappShareButton) els.whatsappShareButton.href = `https://wa.me/?text=${encodedText}`;
+  if (els.linkedinShareButton) els.linkedinShareButton.href = `https://www.linkedin.com/sharing/share-offsite/?url=${encodedUrl}`;
+  if (els.xShareButton) els.xShareButton.href = `https://twitter.com/intent/tweet?text=${encodeURIComponent(article.title)}&url=${encodedUrl}`;
+
+  if (els.nativeShareButton) {
+    els.nativeShareButton.addEventListener('click', async () => {
+      try {
+        if (navigator.share) {
+          await navigator.share({ title: article.title, text, url });
+          if (els.shareStatus) els.shareStatus.textContent = 'Paylaşım paneli açıldı.';
+        } else {
+          await navigator.clipboard.writeText(text);
+          if (els.shareStatus) els.shareStatus.textContent = 'Paylaşım metni panoya kopyalandı.';
+        }
+      } catch (error) {
+        if (els.shareStatus) els.shareStatus.textContent = 'Paylaşım işlemi tamamlanmadı.';
+      }
+    });
+  }
+
+  if (els.copyShareButton) {
+    els.copyShareButton.addEventListener('click', async () => {
+      try {
+        await navigator.clipboard.writeText(text);
+        if (els.shareStatus) els.shareStatus.textContent = 'Paylaşım metni panoya kopyalandı.';
+      } catch (error) {
+        if (els.shareStatus) els.shareStatus.textContent = 'Kopyalama başarısız oldu. Metni seçerek kopyalayabilirsin.';
+      }
+    });
+  }
 }
 
 function articleUrl(article, date, type = 'article') {
@@ -74,6 +138,8 @@ function renderArticle(digest, article, type) {
   } else {
     els.source.style.display = 'none';
   }
+
+  setupShare(article, digest);
 
   const relatedPool = type === 'hero' ? (digest.articles || []) : (digest.articles || []).filter(item => getSlug(item) !== getSlug(article));
   els.related.innerHTML = relatedPool.slice(0, 3).map(item => `

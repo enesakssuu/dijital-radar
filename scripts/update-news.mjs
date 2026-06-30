@@ -192,7 +192,7 @@ function fallbackDigest(items, date) {
   };
   const articles = selected.slice(0, 9).map(item => ({
     title: item.title,
-    summary: item.summary || 'Kaynakta öne çıkan gelişme 2-3 cümlelik açıklayıcı özetlenemedi. Detay için kaynağı açabilirsiniz.',
+    summary: item.summary || 'Kaynakta öne çıkan gelişme kısa özetlenemedi. Detay için kaynağı açabilirsiniz.',
     body: [
       item.summary || 'Bu haberin detayları kaynak bağlantısında yer alır.',
       'Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı.'
@@ -227,7 +227,7 @@ function fallbackDigest(items, date) {
       'WordPress ve otomasyon tarafında tekrar eden işleri veri tabanlı akışlara çevirmek avantaj sağlar.',
       'Sağlık sektöründe AI kullanımı için KVKK, veri kalitesi ve klinik doğruluk mutlaka ayrı ele alınmalı.'
     ],
-    enesActions: [
+    hhWebActions: [
       { title: 'Landing page içeriklerini kısa cevap bloklarıyla güncelle', detail: 'SMILE PRO, Tiroid Ablasyonu ve Robotik Cerrahi LP’lerinde AI aramalarına uygun özet alanları test et.' },
       { title: 'GSC’de sıralama var trafik yok raporu çıkar', detail: 'Pozisyonu iyi ama CTR’ı düşük sorguları GEO ve AI Overview etkisi açısından ayrıca incele.' },
       { title: 'Doktor sayfalarına mini FAQ modülü ekle', detail: 'Uzmanlık alanı, tedavi kapsamı ve hasta başvuru sorularını kısa cevaplarla standartlaştır.' },
@@ -253,7 +253,7 @@ Sen Dijital Radar adlı Türkçe bir haber bülteni editörüsün. Konular: diji
 Kurallar:
 - Çıktıyı yalnızca geçerli JSON olarak ver.
 - Emoji kullanma.
-- Türkçe yaz. Kaynak İngilizce olsa bile tüm haber başlıklarını, özetleri, gövde metinlerini ve kişisel aksiyonları Türkçeye çevir.
+- Türkçe yaz. Kaynak İngilizce olsa bile tüm haber başlıklarını, özetleri, gövde metinlerini ve HH - Web aksiyonlarını Türkçeye çevir.
 - Site arayüzünde ve JSON içeriğinde kullanıcıya görünen hiçbir metin İngilizce kalmasın; yalnızca kaynak marka adları orijinal kalabilir.
 - Kısa, profesyonel, haber sitesi üslubunda yaz.
 - Sağlık iddialarında kesin tıbbi öneri verme; dijital pazarlama ve teknoloji etkisine odaklan.
@@ -269,7 +269,7 @@ JSON şeması:
   "articles": [{"title":"", "summary":"", "body":["", ""], "category":"", "sourceName":"", "url":"", "publishedAt":"", "readingTime":"3 dk"}],
   "highlights": ["", "", "", ""],
   "quickNotes": ["", "", "", ""],
-  "enesActions": [{"title":"", "detail":""}],
+  "hhWebActions": [{"title":"", "detail":""}],
   "sources": [{"name":"", "url":"", "category":""}]
 }
 
@@ -339,7 +339,7 @@ function normalizeDigest(digest, rawItems, date) {
   };
   normalized.highlights = (normalized.highlights || fallback.highlights).slice(0, 4).map(removeEmoji);
   normalized.quickNotes = (normalized.quickNotes || fallback.quickNotes).slice(0, 4).map(removeEmoji);
-  normalized.enesActions = (normalized.enesActions || fallback.enesActions).slice(0, 6).map(action => ({
+  normalized.hhWebActions = (normalized.hhWebActions || fallback.hhWebActions).slice(0, 6).map(action => ({
     title: removeEmoji(action.title || ''),
     detail: removeEmoji(action.detail || '')
   }));

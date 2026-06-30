@@ -1,129 +1,105 @@
 {
-  "date": "2026-06-30",
-  "generatedAt": "2026-06-30T05:18:02.158Z",
+  "date": "2026-06-29",
+  "generatedAt": "2026-06-29T05:00:00.000Z",
   "readingTime": "6 dk okuma",
   "hero": {
-    "title": "Google’dan Küçük Yayıncılara Kişiselleştirme Desteği",
-    "summary": "Google’ın Liz Reid, kişiselleştirmenin ve tercih edilen kaynakların küçük yayıncıların AI aramalarda bulunabilirliğini artırabileceğini belirtti.",
+    "title": "AI Search ve GEO dijital görünürlüğün yeni merkezi oluyor",
+    "summary": "Arama motorları ve üretken AI yanıtları, markaların yalnızca sıralama değil kaynak gösterilme ve cevaplarda yer alma hedefiyle içerik üretmesini gerekli hale getiriyor.",
     "body": [
-      "Google Search Engine Journal’a verdiği röportajda Liz Reid, kişiselleştirmenin küçük yayıncılar için önemli bir avantaj sağlayabileceğini vurguladı. AI destekli arama sonuçlarında kullanıcıların tercih ettiği kaynaklara öncelik verilmesi, küçük yayıncıların görünürlüğünü artırabilir.",
-      "Reid, bu görüşünü destekleyecek somut veri paylaşmasa da, kişiselleştirmenin dijital pazarlamada yükselen bir trend olduğunu ve SEO stratejilerinde dikkate alınması gerektiğini belirtti."
+      "AI destekli arama deneyimleri kullanıcıya daha doğrudan cevap verdiği için klasik organik trafik davranışını değiştiriyor. Bu nedenle içeriklerin yalnızca arama sonucunda görünmesi değil, AI yanıtlarında güvenilir kaynak olarak kullanılabilecek şekilde yapılandırılması önem kazanıyor.",
+      "Dijital Radar açısından bugünün ana konusu, SEO çalışmalarının GEO ve AEO mantığıyla yeniden ele alınmasıdır. Kısa cevap kutuları, uzman imzası, net kaynaklama, güncel tarih ve güçlü soru-cevap yapıları bu dönüşümde öne çıkar."
     ],
     "category": "SEO / GEO",
-    "sourceName": "Search Engine Journal",
-    "url": "https://www.searchenginejournal.com/googles-liz-reid-personalization-can-help-small-publishers/581010/",
-    "publishedAt": "2026-06-30T02:54:23.000Z",
-    "slug": "google-dan-kucuk-yayincilara-kisisellestirme-destegi"
+    "sourceName": "Dijital Radar",
+    "url": "",
+    "publishedAt": "2026-06-29T05:00:00.000Z",
+    "slug": "ai-search-ve-geo-dijital-gorunurlugun-yeni-merkezi-oluyor"
   },
   "articles": [
     {
-      "title": "Google: Meta Açıklamalar SEO İçin Zorunlu Değil, Ancak Yazmak Faydalı",
-      "summary": "Google, meta açıklamaların SEO için zorunlu olmadığını doğruladı ancak yazmanın yine de değerli olduğunu açıkladı.",
+      "title": "Google AI Overviews SEO raporlamasını yeniden yorumlatıyor",
+      "summary": "Sıralaması iyi olan içeriklerde bile tıklama düşüşü görülebileceği için CTR, sorgu tipi ve AI görünürlüğü birlikte takip edilmeli.",
       "body": [
-        "Google Search Engine Journal’a yaptığı açıklamada, meta açıklamaların arama sıralaması için doğrudan bir gereklilik olmadığını belirtti. Ancak, kullanıcı deneyimini artırdığı ve tıklama oranlarını iyileştirdiği için meta açıklamaların yazılmasının önerildiği vurgulandı.",
-        "Bu açıklama, SEO uzmanlarının meta açıklamalara tamamen odaklanmaktan ziyade, içerik kalitesi ve kullanıcı niyetine uygunluk gibi diğer faktörlere de önem vermesi gerektiğini gösteriyor."
+        "AI Overviews ve benzeri arama deneyimleri, kullanıcının cevabı arama sonucunda almasını kolaylaştırıyor. Bu durum özellikle bilgilendirici sağlık içeriklerinde tıklama davranışını değiştirebilir.",
+        "GSC tarafında pozisyonu iyi ama CTR değeri düşük olan sorgular ayrıca incelenmeli. Bu sorgular için başlık, meta açıklama, kısa cevap alanı ve FAQ yapısı yeniden ele alınabilir."
       ],
       "category": "SEO / GEO",
-      "sourceName": "Search Engine Journal",
-      "url": "https://www.searchenginejournal.com/google-meta-descriptions-not-required-for-seo-but-theyre-worthwhile/580694/",
-      "publishedAt": "2026-06-29T08:57:26.000Z",
+      "sourceName": "Dijital Radar",
+      "url": "",
+      "publishedAt": "2026-06-29T05:00:00.000Z",
       "readingTime": "3 dk",
-      "slug": "google-meta-aciklamalar-seo-icin-zorunlu-degil-ancak-yazmak-faydali"
+      "slug": "google-ai-overviews-seo-raporlamasn-yeniden-yorumlatyor"
     },
     {
-      "title": "Google, AI Eğitimi İçin Kamu Web İçeriğinin Adil Kullanım Olduğunu Savunuyor",
-      "summary": "Google, AI modellerinin eğitimi için kamuya açık web içeriğinin adil kullanım kapsamında kalması gerektiğini belirtti.",
+      "title": "Landing page içerikleri cevap odaklı yapıya dönüyor",
+      "summary": "Reklamdan gelen kullanıcılar uzun metin yerine işlem süresi, uygunluk, iyileşme ve danışmanlık adımlarını hızlı görmek istiyor.",
       "body": [
-        "Google, AI yönetişim raporunda, kamuya açık web verilerinin AI eğitiminde kullanılmasının adil kullanım olduğunu savundu. Ayrıca, içerik sahiplerine opt-out seçenekleri, içerik kaldırma talepleri ve özel içerikler için ücretli anlaşmalar sunulduğunu açıkladı.",
-        "Bu yaklaşım, AI geliştirme süreçlerinde içerik sahiplerinin haklarının korunması ile inovasyonun dengelenmesi amacını taşıyor."
-      ],
-      "category": "SEO / GEO",
-      "sourceName": "Search Engine Journal",
-      "url": "https://www.searchenginejournal.com/google-defends-ai-training-as-fair-use-in-governance-paper/580776/",
-      "publishedAt": "2026-06-29T15:38:04.000Z",
-      "readingTime": "3 dk",
-      "slug": "google-ai-egitimi-icin-kamu-web-iceriginin-adil-kullanim-oldugunu-savunuyor"
-    },
-    {
-      "title": "Google Gemini’nin Kişiselleştirilmiş AI Görüntü Üretimi ABD’de Ücretsiz Oldu",
-      "summary": "Google, Gemini’nin kişiselleştirilmiş AI görüntü üretimini ABD’de uygun ücretsiz kullanıcılar için açtı.",
-      "body": [
-        "Google, Gemini adlı yapay zeka destekli sohbet robotunun kullanıcıların ilgi alanlarına ve bağlı Google uygulamalarından aldığı verilere göre kişiselleştirilmiş görüntüler oluşturmasını ABD’de ücretsiz olarak sunmaya başladı.",
-        "Bu gelişme, AI destekli görsel içerik üretiminde kişiselleştirmenin önemini artırırken, kullanıcı deneyimini zenginleştirmeyi hedefliyor."
-      ],
-      "category": "AI",
-      "sourceName": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
-      "publishedAt": "2026-06-29T20:12:59.000Z",
-      "readingTime": "3 dk",
-      "slug": "google-gemini-nin-kisisellestirilmis-ai-goruntu-uretimi-abd-de-ucretsiz-oldu"
-    },
-    {
-      "title": "Yüksek Yoğunluklu AI Kullanan Şirketlerde İş Gücü Artışı Gözlendi",
-      "summary": "Yeni rapor, yoğun AI kullanan şirketlerde çalışan sayısının %10,2 arttığını ve giriş seviyesi pozisyonların %12 yükseldiğini ortaya koydu.",
-      "body": [
-        "TechCrunch AI tarafından yayımlanan rapora göre, yapay zekayı yoğun şekilde benimseyen şirketlerde iş gücü artışı yaşanıyor. Bu durum, AI’nın genç ve giriş seviyesi işlerin yok olacağı yönündeki yaygın algıyı çürütüyor.",
-        "Raporda, AI’nın iş süreçlerini destekleyerek yeni iş alanları yarattığı ve çalışan sayısını artırdığı vurgulanıyor."
-      ],
-      "category": "AI",
-      "sourceName": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
-      "publishedAt": "2026-06-30T04:01:00.000Z",
-      "readingTime": "3 dk",
-      "slug": "yuksek-yogunluklu-ai-kullanan-sirketlerde-is-gucu-artisi-gozlendi"
-    },
-    {
-      "title": "YouTube Marka Kampanyaları İçin Daha Derin İçgörüler Sunuluyor",
-      "summary": "Google Ads, YouTube marka kampanyalarının reklamverenler için önemli sonuçlar sağladığını kanıtlamaya yardımcı olacak yeni özellikler duyurdu.",
-      "body": [
-        "Google Ads Blog’da paylaşılan bilgilere göre, YouTube marka kampanyalarının performansını daha iyi ölçmek ve reklamverenlerin yatırım getirisini artırmak için yeni analiz araçları geliştirildi.",
-        "Bu özellikler, dijital pazarlama stratejilerinde YouTube’un etkinliğini artırmak isteyen markalar için önemli fırsatlar sunuyor."
+        "Landing page performansında ilk ekrandaki karar verme hızı daha önemli hale geliyor. Kullanıcı işlem hakkında güven veren kısa cevapları hızlıca görürse form veya WhatsApp etkileşimine daha kolay geçebilir.",
+        "Özellikle sağlık LP’lerinde kimler için uygun, işlem süresi, hastanede kalış, iyileşme ve doktor değerlendirmesi gibi alanlar standart modül haline getirilebilir."
       ],
       "category": "Dijital Pazarlama",
-      "sourceName": "Google Ads Blog",
-      "url": "https://blog.google/products/ads-commerce/youtube-brand-campaign-updates/",
-      "publishedAt": "2026-06-29T14:00:00.000Z",
+      "sourceName": "Dijital Radar",
+      "url": "",
+      "publishedAt": "2026-06-29T05:00:00.000Z",
       "readingTime": "3 dk",
-      "slug": "youtube-marka-kampanyalari-icin-daha-derin-icgoruler-sunuluyor"
+      "slug": "landing-page-icerikleri-cevap-odakl-yapya-donuyor"
+    },
+    {
+      "title": "Figma ve AI araçları web tasarım üretim hızını artırıyor",
+      "summary": "AI destekli tasarım araçları wireframe, varyasyon, mikro kopya ve prototip süreçlerinde daha hızlı deneme yapmayı sağlıyor.",
+      "body": [
+        "Web tasarım tarafında AI, sıfırdan tasarım yapmak yerine varyasyon üretme, ilk taslak çıkarma ve kullanıcı akışını hızla test etme alanlarında değerli hale geliyor.",
+        "LP hero alanları, doktor sayfası şablonları, sosyal medya carousel taslakları ve yönetim sunumları için hızlı konsept üretimi yapılabilir."
+      ],
+      "category": "Web Tasarım",
+      "sourceName": "Dijital Radar",
+      "url": "",
+      "publishedAt": "2026-06-29T05:00:00.000Z",
+      "readingTime": "3 dk",
+      "slug": "figma-ve-ai-araclar-web-tasarm-uretim-hzn-artryor"
+    },
+    {
+      "title": "WordPress tarafında AI destekli yarı otomasyon dönemi güçleniyor",
+      "summary": "İçerik taslağı, FAQ üretimi, schema hazırlığı, görsel alternatifi ve form şablonları AI ile daha hızlı standartlaştırılabilir.",
+      "body": [
+        "WordPress projelerinde AI’nin en pratik kullanımı tekrar eden üretim süreçlerini hızlandırmaktır. İçerik blokları, CF7 form yapıları, schema alanları ve çok dilli taslaklar bu kapsama girer.",
+        "Kurumsal web sitelerinde tamamen otomatik yayın yerine editör onaylı yarı otomasyon daha güvenli ve sürdürülebilir bir akış sağlar."
+      ],
+      "category": "Araçlar",
+      "sourceName": "Dijital Radar",
+      "url": "",
+      "publishedAt": "2026-06-29T05:00:00.000Z",
+      "readingTime": "3 dk",
+      "slug": "wordpress-tarafnda-ai-destekli-yar-otomasyon-donemi-gucleniyor"
+    },
+    {
+      "title": "Sağlıkta AI için veri kalitesi ve güven ön planda",
+      "summary": "Hastane tarafında AI kullanımı pazarlama, hasta deneyimi ve operasyonel verimlilikte fırsat sunsa da veri güvenliği ve doğruluk temel koşul olmaya devam ediyor.",
+      "body": [
+        "Sağlık sektöründe AI kullanımı yalnızca içerik üretimi veya chatbot ile sınırlı değildir. Hasta deneyimi, çağrı merkezi analizi, randevu akışı, CRM özetleri ve klinik dışı operasyonel otomasyonlar da önemli kullanım alanlarıdır.",
+        "Ancak kişisel sağlık verileri, KVKK, klinik doğruluk ve insan onayı bu alandaki tüm projelerde öncelikli kontrol noktası olmalıdır."
+      ],
+      "category": "Sağlık Sektörü",
+      "sourceName": "Dijital Radar",
+      "url": "",
+      "publishedAt": "2026-06-29T05:00:00.000Z",
+      "readingTime": "4 dk",
+      "slug": "saglkta-ai-icin-veri-kalitesi-ve-guven-on-planda"
     }
   ],
   "highlights": [
-    "Google, küçük yayıncıların AI aramalarda bulunabilirliğini kişiselleştirme ile artırabileceğini belirtti.",
-    "Meta açıklamalar SEO için zorunlu değil ancak yazılması kullanıcı deneyimini iyileştiriyor.",
-    "Google, AI eğitimi için kamu web içeriğinin adil kullanım olduğunu savunuyor.",
-    "Gemini’nin kişiselleştirilmiş AI görüntü üretimi ABD’de ücretsiz olarak sunulmaya başlandı."
+    "SEO tarafında yalnızca sıralama değil AI yanıtlarında görünürlük de izlenmeli.",
+    "Landing page içerikleri kısa cevap ve karar destek bloklarıyla güçlendirilmeli.",
+    "WordPress süreçlerinde AI destekli yarı otomasyon güvenli bir verimlilik alanı sunuyor.",
+    "Sağlıkta AI kullanımı için veri güvenliği ve insan onayı temel şart olmalı."
   ],
   "quickNotes": [
-    "AI kullanımı iş gücünde artışa neden oluyor, iş kaybı algısını zayıflatıyor.",
-    "YouTube marka kampanyaları için yeni analiz araçları reklamverenlere sunuldu.",
-    "Tidal, AI ile üretilen müziklerde gelir paylaşımını durdurma kararı aldı.",
-    "AI şirketlerinin sağlık verisi satışını yasaklayan yasa tasarısı ABD’de gündemde."
-  ],
-  "enesActions": [
-    {
-      "title": "Web Sitesinde Kişiselleştirme Uygulamalarını Geliştir",
-      "detail": "Kullanıcıların ilgi alanlarına göre içerik ve öneri sunan kişiselleştirme özelliklerini web sitende test ederek küçük yayıncıların görünürlüğünü artır."
-    },
-    {
-      "title": "Meta Açıklamaları Optimize Et",
-      "detail": "SEO stratejinde meta açıklamaların zorunlu olmadığını bilerek, kullanıcı deneyimini artıracak şekilde açıklamalar yazmaya devam et."
-    },
-    {
-      "title": "YouTube Kampanyalarını Yeni Analiz Araçlarıyla Takip Et",
-      "detail": "YouTube marka kampanyalarının performansını Google Ads’in yeni sunduğu analiz özellikleriyle ölçerek reklam yatırımlarının geri dönüşünü artır."
-    }
+    "GSC’de pozisyonu iyi ama CTR değeri düşük sorgular ayrı raporlanmalı.",
+    "Doktor sayfalarında mini FAQ modülü SEO ve hasta güveni için avantaj sağlar.",
+    "LP’lerde işlem süresi, uygunluk ve iyileşme alanları standartlaştırılabilir.",
+    "Haftalık raporlara AI etkisi ve uygulanabilir aksiyon bölümü eklenebilir."
   ],
   "sources": [
-    {
-      "name": "Webrazzi",
-      "url": "https://webrazzi.com/feed/",
-      "category": "Dijital Pazarlama"
-    },
-    {
-      "name": "Pazarlamasyon",
-      "url": "https://www.pazarlamasyon.com/feed/",
-      "category": "Dijital Pazarlama"
-    },
     {
       "name": "Search Engine Land",
       "url": "https://searchengineland.com/feed",
@@ -178,6 +154,24 @@
       "name": "MobiHealthNews",
       "url": "https://www.mobihealthnews.com/rss.xml",
       "category": "Sağlık Sektörü"
+    }
+  ],
+  "hhWebActions": [
+    {
+      "title": "SMILE PRO LP için kısa cevap kutusu ekle",
+      "detail": "İlk ekranda kimler için uygun, işlem süresi ve ücretsiz değerlendirme adımlarını netleştir."
+    },
+    {
+      "title": "GSC’de sıralama var trafik yok filtresi oluştur",
+      "detail": "Ortalama pozisyonu 1-10 arasında olup CTR değeri düşük sorguları GEO etkisi açısından incele."
+    },
+    {
+      "title": "Doktor sayfaları için mini FAQ şablonu hazırla",
+      "detail": "Her doktor profiline uzmanlık alanı, tedavi kapsamı ve hasta başvuru soruları eklenebilir."
+    },
+    {
+      "title": "Haftalık sunuma Dijital Radar bölümünü ekle",
+      "detail": "Günün haberlerinden çıkan 3 somut aksiyonu yönetim raporunda ayrı kutu olarak sun."
     }
   ]
 }
