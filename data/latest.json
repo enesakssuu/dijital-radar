@@ -1,105 +1,190 @@
 {
-  "date": "2026-06-29",
-  "generatedAt": "2026-06-29T05:00:00.000Z",
+  "date": "2026-06-30",
+  "generatedAt": "2026-06-30T07:26:27.636Z",
   "readingTime": "6 dk okuma",
   "hero": {
-    "title": "AI Search ve GEO dijital görünürlüğün yeni merkezi oluyor",
-    "summary": "Arama motorları ve üretken AI yanıtları, markaların yalnızca sıralama değil kaynak gösterilme ve cevaplarda yer alma hedefiyle içerik üretmesini gerekli hale getiriyor.",
+    "title": "Google’dan Küçük Yayıncılara Kişiselleştirme Tavsiyesi",
+    "summary": "Google’dan Liz Reid, kişiselleştirmenin ve tercih edilen kaynakların küçük yayıncıların AI destekli aramalarda bulunabilirliğini artırabileceğini belirtti.",
     "body": [
-      "AI destekli arama deneyimleri kullanıcıya daha doğrudan cevap verdiği için klasik organik trafik davranışını değiştiriyor. Bu nedenle içeriklerin yalnızca arama sonucunda görünmesi değil, AI yanıtlarında güvenilir kaynak olarak kullanılabilecek şekilde yapılandırılması önem kazanıyor.",
-      "Dijital Radar açısından bugünün ana konusu, SEO çalışmalarının GEO ve AEO mantığıyla yeniden ele alınmasıdır. Kısa cevap kutuları, uzman imzası, net kaynaklama, güncel tarih ve güçlü soru-cevap yapıları bu dönüşümde öne çıkar."
+      "Google’ın SEO uzmanlarından Liz Reid, küçük yayıncıların yapay zeka destekli arama sonuçlarında öne çıkabilmesi için kişiselleştirme stratejilerinin ve tercih edilen kaynakların önemine dikkat çekti.",
+      "Reid, bu yaklaşımın küçük yayıncıların görünürlüğünü artırabileceğini savunsa da, bu iddiayı destekleyen somut veri paylaşmadı."
     ],
     "category": "SEO / GEO",
-    "sourceName": "Dijital Radar",
-    "url": "",
-    "publishedAt": "2026-06-29T05:00:00.000Z",
-    "slug": "ai-search-ve-geo-dijital-gorunurlugun-yeni-merkezi-oluyor"
+    "sourceName": "Search Engine Journal",
+    "url": "https://www.searchenginejournal.com/googles-liz-reid-personalization-can-help-small-publishers/581010/",
+    "publishedAt": "2026-06-30T02:54:23.000Z",
+    "slug": "google-dan-kucuk-yayincilara-kisisellestirme-tavsiyesi"
   },
   "articles": [
     {
-      "title": "Google AI Overviews SEO raporlamasını yeniden yorumlatıyor",
-      "summary": "Sıralaması iyi olan içeriklerde bile tıklama düşüşü görülebileceği için CTR, sorgu tipi ve AI görünürlüğü birlikte takip edilmeli.",
+      "title": "Google: Meta Açıklamalar SEO İçin Zorunlu Değil, Ancak Yazmak Faydalı",
+      "summary": "Google, meta açıklamaların SEO için zorunlu olmadığını doğruladı ancak yazmanın faydalı olduğunu açıkladı.",
       "body": [
-        "AI Overviews ve benzeri arama deneyimleri, kullanıcının cevabı arama sonucunda almasını kolaylaştırıyor. Bu durum özellikle bilgilendirici sağlık içeriklerinde tıklama davranışını değiştirebilir.",
-        "GSC tarafında pozisyonu iyi ama CTR değeri düşük olan sorgular ayrıca incelenmeli. Bu sorgular için başlık, meta açıklama, kısa cevap alanı ve FAQ yapısı yeniden ele alınabilir."
+        "Google, meta açıklamaların arama motoru optimizasyonu için zorunlu olmadığını belirtti.",
+        "Buna rağmen, meta açıklamaların kullanıcı deneyimini iyileştirdiği ve tıklama oranlarını artırabileceği için yazılmasının değerli olduğu vurgulandı."
       ],
       "category": "SEO / GEO",
-      "sourceName": "Dijital Radar",
-      "url": "",
-      "publishedAt": "2026-06-29T05:00:00.000Z",
+      "sourceName": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/google-meta-descriptions-not-required-for-seo-but-theyre-worthwhile/580694/",
+      "publishedAt": "2026-06-29T08:57:26.000Z",
       "readingTime": "3 dk",
-      "slug": "google-ai-overviews-seo-raporlamasn-yeniden-yorumlatyor"
+      "slug": "google-meta-aciklamalar-seo-icin-zorunlu-degil-ancak-yazmak-faydali"
     },
     {
-      "title": "Landing page içerikleri cevap odaklı yapıya dönüyor",
-      "summary": "Reklamdan gelen kullanıcılar uzun metin yerine işlem süresi, uygunluk, iyileşme ve danışmanlık adımlarını hızlı görmek istiyor.",
+      "title": "Google, AI Eğitiminde Kamu Web İçeriğinin Adil Kullanım Olduğunu Savunuyor",
+      "summary": "Google, yapay zeka eğitiminde kamuya açık web içeriğinin adil kullanım kapsamında kalması gerektiğini belirtti.",
       "body": [
-        "Landing page performansında ilk ekrandaki karar verme hızı daha önemli hale geliyor. Kullanıcı işlem hakkında güven veren kısa cevapları hızlıca görürse form veya WhatsApp etkileşimine daha kolay geçebilir.",
-        "Özellikle sağlık LP’lerinde kimler için uygun, işlem süresi, hastanede kalış, iyileşme ve doktor değerlendirmesi gibi alanlar standart modül haline getirilebilir."
+        "Google’ın yapay zeka yönetişim belgesinde, kamuya açık web içeriğinin AI eğitiminde adil kullanım olarak değerlendirilmesi gerektiği savunuldu.",
+        "Belge, içerik sahiplerinin opt-out seçenekleri, içerik kaldırma talepleri ve özel içerikler için ücretli anlaşmalar gibi kontrollerin önemine işaret ediyor."
+      ],
+      "category": "SEO / GEO",
+      "sourceName": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/google-defends-ai-training-as-fair-use-in-governance-paper/580776/",
+      "publishedAt": "2026-06-29T15:38:04.000Z",
+      "readingTime": "3 dk",
+      "slug": "google-ai-egitiminde-kamu-web-iceriginin-adil-kullanim-oldugunu-savunuyor"
+    },
+    {
+      "title": "Google Gemini’nin Kişiselleştirilmiş AI Görüntü Üretimi ABD’de Ücretsiz Oldu",
+      "summary": "Google, Gemini’nin kişiselleştirilmiş yapay zeka görüntü üretimini ABD’de uygun ücretsiz kullanıcılar için açtı.",
+      "body": [
+        "Google, Gemini adlı yapay zeka destekli sohbet robotunun kullanıcıların ilgi alanlarına ve bağlı Google uygulamalarından gelen verilere dayalı görüntüler oluşturmasını sağlayan kişiselleştirilmiş AI görüntü üretimini ABD’de ücretsiz hale getirdi.",
+        "Bu adım, kullanıcıların daha özgün ve ilgi çekici görseller elde etmesini amaçlıyor."
+      ],
+      "category": "AI",
+      "sourceName": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+      "publishedAt": "2026-06-29T20:12:59.000Z",
+      "readingTime": "3 dk",
+      "slug": "google-gemini-nin-kisisellestirilmis-ai-goruntu-uretimi-abd-de-ucretsiz-oldu"
+    },
+    {
+      "title": "Yapay Zeka İş Tartışmaları Daha Karmaşık Hale Geliyor",
+      "summary": "Yeni rapor, yoğun yapay zeka kullanan şirketlerin çalışan sayısında artış olduğunu ortaya koydu.",
+      "body": [
+        "Yapay zeka yoğun olarak benimseyen şirketlerde çalışan sayısının %10,2 arttığı tespit edildi.",
+        "Özellikle giriş seviyesi pozisyonlarda %12 artış gözlenmesi, yapay zekanın genç iş gücünü azaltacağı yönündeki yaygın görüşlere karşıt bir veri sunuyor."
+      ],
+      "category": "AI",
+      "sourceName": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+      "publishedAt": "2026-06-30T04:01:00.000Z",
+      "readingTime": "3 dk",
+      "slug": "yapay-zeka-is-tartismalari-daha-karmasik-hale-geliyor"
+    },
+    {
+      "title": "Reddit Üzerinden Yapay Zeka Atıfları Satın Almak Yeni Link Çiftliği",
+      "summary": "Satın alınan Reddit atıflarının filtreleneceği ve gerçekliğin en etkili strateji olduğu vurgulandı.",
+      "body": [
+        "Yapay zeka atıflarını kazanmak için Reddit üzerinden satın alma stratejisi, geçmişte Penguin algoritmasının satın alınan bağlantıları filtrelemesi gibi engellenecek.",
+        "Gerçek ve organik içerik üretmenin, dijital pazarlamada sürdürülebilir başarı için tek yol olduğu belirtildi."
+      ],
+      "category": "SEO / GEO",
+      "sourceName": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/buying-reddit-to-win-ai-citations-is-the-new-link-farm/578016/",
+      "publishedAt": "2026-06-29T15:00:10.000Z",
+      "readingTime": "3 dk",
+      "slug": "reddit-uzerinden-yapay-zeka-atiflari-satin-almak-yeni-link-ciftligi"
+    },
+    {
+      "title": "Base44, Kendi Yapay Zeka Modelini Başlattı",
+      "summary": "Wix’e bağlı Base44, kendi yapay zeka modelini geliştirerek sektörde rekabet etmeyi hedefliyor.",
+      "body": [
+        "Wix’in sahip olduğu kodlama platformu Base44, kendi yapay zeka modelini kullanıma sundu.",
+        "Şirket, bu modelin gelecekte mevcut öncü modelleri geride bırakmasını amaçlıyor."
+      ],
+      "category": "AI",
+      "sourceName": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+      "publishedAt": "2026-06-30T02:28:41.000Z",
+      "readingTime": "3 dk",
+      "slug": "base44-kendi-yapay-zeka-modelini-baslatti"
+    },
+    {
+      "title": "Tidal, Yapay Zeka Üretimi Müziğe Telif Ödemeyecek, Ancak Yasaklamıyor",
+      "summary": "Tidal, yapay zeka ile üretilen müzikleri etiketleyerek şeffaflık sağlayacak ve 15 Temmuz’dan itibaren bu müziklerin para kazanmasını durduracak.",
+      "body": [
+        "Tidal, yapay zeka tarafından tamamen oluşturulan müzik parçalarını özel bir ikonla işaretleyecek.",
+        "Bu parçalar 15 Temmuz’dan itibaren platformda para kazanamayacak ancak tamamen yasaklanmayacak.",
+        "Ayrıca, sanatçıları taklit eden yapay zeka müzikleri otomatik araçlarla kaldırılacak."
+      ],
+      "category": "AI",
+      "sourceName": "The Verge AI",
+      "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+      "publishedAt": "2026-06-29T19:47:35.000Z",
+      "readingTime": "3 dk",
+      "slug": "tidal-yapay-zeka-uretimi-muzige-telif-odemeyecek-ancak-yasaklamiyor"
+    },
+    {
+      "title": "Yapay Zeka Destekli Lojistik Platformu Derya, 1.1 Milyon Dolar Yatırım Aldı",
+      "summary": "Yapay zeka destekli lojistik platformu Derya, ABD merkezli yatırımcılardan 1.1 milyon dolar yatırım aldı.",
+      "body": [
+        "Derya, yapay zeka teknolojileriyle lojistik ve yük taşımacılığını optimize eden bir platform olarak öne çıkıyor.",
+        "Y Combinator, 212 ve Ubicloud kurucu ortağı gibi yatırımcıların katıldığı turda 1.1 milyon dolar fon sağlandı."
       ],
       "category": "Dijital Pazarlama",
-      "sourceName": "Dijital Radar",
-      "url": "",
-      "publishedAt": "2026-06-29T05:00:00.000Z",
+      "sourceName": "Webrazzi",
+      "url": "https://webrazzi.com/2026/06/30/yapay-zeka-destekli-lojistik-platformu-derya-1-1-milyon-dolar-yatirim-aldi/",
+      "publishedAt": "2026-06-30T07:21:42.000Z",
       "readingTime": "3 dk",
-      "slug": "landing-page-icerikleri-cevap-odakl-yapya-donuyor"
+      "slug": "yapay-zeka-destekli-lojistik-platformu-derya-1-1-milyon-dolar-yatirim-aldi"
     },
     {
-      "title": "Figma ve AI araçları web tasarım üretim hızını artırıyor",
-      "summary": "AI destekli tasarım araçları wireframe, varyasyon, mikro kopya ve prototip süreçlerinde daha hızlı deneme yapmayı sağlıyor.",
+      "title": "Timus Networks, ABD’li Siber Güvenlik Şirketi CyberFOX Tarafından Satın Alındı",
+      "summary": "Bulut tabanlı ağ güvenliği çözümleri sunan Timus Networks, CyberFOX tarafından satın alındı.",
       "body": [
-        "Web tasarım tarafında AI, sıfırdan tasarım yapmak yerine varyasyon üretme, ilk taslak çıkarma ve kullanıcı akışını hızla test etme alanlarında değerli hale geliyor.",
-        "LP hero alanları, doktor sayfası şablonları, sosyal medya carousel taslakları ve yönetim sunumları için hızlı konsept üretimi yapılabilir."
+        "Tuğrul Tekbulut ve Ahmet Polat tarafından kurulan Timus Networks, ABD merkezli CyberFOX şirketinin portföyüne katıldı.",
+        "Bu satın alma, siber güvenlik alanında küresel iş birliklerinin artmasına işaret ediyor."
       ],
-      "category": "Web Tasarım",
-      "sourceName": "Dijital Radar",
-      "url": "",
-      "publishedAt": "2026-06-29T05:00:00.000Z",
+      "category": "Dijital Pazarlama",
+      "sourceName": "Webrazzi",
+      "url": "https://webrazzi.com/2026/06/30/timus-networks-cyberfox-tarafindan-satin-alindi/",
+      "publishedAt": "2026-06-30T06:30:56.000Z",
       "readingTime": "3 dk",
-      "slug": "figma-ve-ai-araclar-web-tasarm-uretim-hzn-artryor"
-    },
-    {
-      "title": "WordPress tarafında AI destekli yarı otomasyon dönemi güçleniyor",
-      "summary": "İçerik taslağı, FAQ üretimi, schema hazırlığı, görsel alternatifi ve form şablonları AI ile daha hızlı standartlaştırılabilir.",
-      "body": [
-        "WordPress projelerinde AI’nin en pratik kullanımı tekrar eden üretim süreçlerini hızlandırmaktır. İçerik blokları, CF7 form yapıları, schema alanları ve çok dilli taslaklar bu kapsama girer.",
-        "Kurumsal web sitelerinde tamamen otomatik yayın yerine editör onaylı yarı otomasyon daha güvenli ve sürdürülebilir bir akış sağlar."
-      ],
-      "category": "Araçlar",
-      "sourceName": "Dijital Radar",
-      "url": "",
-      "publishedAt": "2026-06-29T05:00:00.000Z",
-      "readingTime": "3 dk",
-      "slug": "wordpress-tarafnda-ai-destekli-yar-otomasyon-donemi-gucleniyor"
-    },
-    {
-      "title": "Sağlıkta AI için veri kalitesi ve güven ön planda",
-      "summary": "Hastane tarafında AI kullanımı pazarlama, hasta deneyimi ve operasyonel verimlilikte fırsat sunsa da veri güvenliği ve doğruluk temel koşul olmaya devam ediyor.",
-      "body": [
-        "Sağlık sektöründe AI kullanımı yalnızca içerik üretimi veya chatbot ile sınırlı değildir. Hasta deneyimi, çağrı merkezi analizi, randevu akışı, CRM özetleri ve klinik dışı operasyonel otomasyonlar da önemli kullanım alanlarıdır.",
-        "Ancak kişisel sağlık verileri, KVKK, klinik doğruluk ve insan onayı bu alandaki tüm projelerde öncelikli kontrol noktası olmalıdır."
-      ],
-      "category": "Sağlık Sektörü",
-      "sourceName": "Dijital Radar",
-      "url": "",
-      "publishedAt": "2026-06-29T05:00:00.000Z",
-      "readingTime": "4 dk",
-      "slug": "saglkta-ai-icin-veri-kalitesi-ve-guven-on-planda"
+      "slug": "timus-networks-abd-li-siber-guvenlik-sirketi-cyberfox-tarafindan-satin-alindi"
     }
   ],
   "highlights": [
-    "SEO tarafında yalnızca sıralama değil AI yanıtlarında görünürlük de izlenmeli.",
-    "Landing page içerikleri kısa cevap ve karar destek bloklarıyla güçlendirilmeli.",
-    "WordPress süreçlerinde AI destekli yarı otomasyon güvenli bir verimlilik alanı sunuyor.",
-    "Sağlıkta AI kullanımı için veri güvenliği ve insan onayı temel şart olmalı."
+    "Google, küçük yayıncıların AI aramalarda öne çıkması için kişiselleştirmeyi öneriyor.",
+    "Meta açıklamalar SEO için zorunlu değil ancak yazmak fayda sağlıyor.",
+    "Google, AI eğitiminde kamu web içeriğinin adil kullanım olduğunu savunuyor.",
+    "Tidal, AI müziklerini etiketleyip para kazanmayı durduracak ancak yasaklamayacak."
   ],
   "quickNotes": [
-    "GSC’de pozisyonu iyi ama CTR değeri düşük sorgular ayrı raporlanmalı.",
-    "Doktor sayfalarında mini FAQ modülü SEO ve hasta güveni için avantaj sağlar.",
-    "LP’lerde işlem süresi, uygunluk ve iyileşme alanları standartlaştırılabilir.",
-    "Haftalık raporlara AI etkisi ve uygulanabilir aksiyon bölümü eklenebilir."
+    "Yapay zeka kullanan şirketlerde çalışan sayısı artıyor, iş kaybı endişeleri azalmaya başladı.",
+    "Reddit üzerinden yapay zeka atıfları satın almak yeni bir link çiftliği riski taşıyor.",
+    "Base44, kendi yapay zeka modelini geliştirerek rekabet gücünü artırmayı hedefliyor.",
+    "Dijital pazarlamada yapay zeka destekli lojistik platformları yatırım almaya devam ediyor."
+  ],
+  "hhWebActions": [
+    {
+      "title": "Web Sitesinde Kişiselleştirilmiş İçerik Stratejisi Geliştirin",
+      "detail": "Google’ın önerdiği gibi, Hisar Hospital web sitesinde kullanıcıların ilgi alanlarına göre kişiselleştirilmiş içerik ve kaynaklar sunarak ziyaretçi deneyimini artırın."
+    },
+    {
+      "title": "Meta Açıklamaları Optimize Edin",
+      "detail": "SEO performansını desteklemek için tüm sayfalarda açıklayıcı ve etkili meta açıklamalar hazırlayın, böylece tıklama oranlarını artırabilirsiniz."
+    },
+    {
+      "title": "AI Destekli Görsel İçerik Üretimini Entegre Edin",
+      "detail": "Gemini gibi yapay zeka araçları kullanarak sağlıkla ilgili görseller oluşturun ve web sitesinde kullanıcıların dikkatini çekin."
+    },
+    {
+      "title": "Yapay Zeka ve Dijital Güvenlik İçin Bilgilendirici Blog İçerikleri Hazırlayın",
+      "detail": "Yapay zeka ve siber güvenlik alanındaki güncel gelişmeleri ele alan blog yazıları ile Hisar Hospital’ın dijital otoritesini güçlendirin."
+    }
   ],
   "sources": [
+    {
+      "name": "Webrazzi",
+      "url": "https://webrazzi.com/feed/",
+      "category": "Dijital Pazarlama"
+    },
+    {
+      "name": "Pazarlamasyon",
+      "url": "https://www.pazarlamasyon.com/feed/",
+      "category": "Dijital Pazarlama"
+    },
     {
       "name": "Search Engine Land",
       "url": "https://searchengineland.com/feed",
@@ -154,24 +239,6 @@
       "name": "MobiHealthNews",
       "url": "https://www.mobihealthnews.com/rss.xml",
       "category": "Sağlık Sektörü"
-    }
-  ],
-  "hhWebActions": [
-    {
-      "title": "SMILE PRO LP için kısa cevap kutusu ekle",
-      "detail": "İlk ekranda kimler için uygun, işlem süresi ve ücretsiz değerlendirme adımlarını netleştir."
-    },
-    {
-      "title": "GSC’de sıralama var trafik yok filtresi oluştur",
-      "detail": "Ortalama pozisyonu 1-10 arasında olup CTR değeri düşük sorguları GEO etkisi açısından incele."
-    },
-    {
-      "title": "Doktor sayfaları için mini FAQ şablonu hazırla",
-      "detail": "Her doktor profiline uzmanlık alanı, tedavi kapsamı ve hasta başvuru soruları eklenebilir."
-    },
-    {
-      "title": "Haftalık sunuma Dijital Radar bölümünü ekle",
-      "detail": "Günün haberlerinden çıkan 3 somut aksiyonu yönetim raporunda ayrı kutu olarak sun."
     }
   ]
 }

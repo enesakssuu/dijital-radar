@@ -1,27 +1,27 @@
 {
   "date": "2026-06-30",
-  "generatedAt": "2026-06-30T05:18:02.158Z",
+  "generatedAt": "2026-06-30T07:26:27.636Z",
   "readingTime": "6 dk okuma",
   "hero": {
-    "title": "Google’dan Küçük Yayıncılara Kişiselleştirme Desteği",
-    "summary": "Google’ın Liz Reid, kişiselleştirmenin ve tercih edilen kaynakların küçük yayıncıların AI aramalarda bulunabilirliğini artırabileceğini belirtti.",
+    "title": "Google’dan Küçük Yayıncılara Kişiselleştirme Tavsiyesi",
+    "summary": "Google’dan Liz Reid, kişiselleştirmenin ve tercih edilen kaynakların küçük yayıncıların AI destekli aramalarda bulunabilirliğini artırabileceğini belirtti.",
     "body": [
-      "Google Search Engine Journal’a verdiği röportajda Liz Reid, kişiselleştirmenin küçük yayıncılar için önemli bir avantaj sağlayabileceğini vurguladı. AI destekli arama sonuçlarında kullanıcıların tercih ettiği kaynaklara öncelik verilmesi, küçük yayıncıların görünürlüğünü artırabilir.",
-      "Reid, bu görüşünü destekleyecek somut veri paylaşmasa da, kişiselleştirmenin dijital pazarlamada yükselen bir trend olduğunu ve SEO stratejilerinde dikkate alınması gerektiğini belirtti."
+      "Google’ın SEO uzmanlarından Liz Reid, küçük yayıncıların yapay zeka destekli arama sonuçlarında öne çıkabilmesi için kişiselleştirme stratejilerinin ve tercih edilen kaynakların önemine dikkat çekti.",
+      "Reid, bu yaklaşımın küçük yayıncıların görünürlüğünü artırabileceğini savunsa da, bu iddiayı destekleyen somut veri paylaşmadı."
     ],
     "category": "SEO / GEO",
     "sourceName": "Search Engine Journal",
     "url": "https://www.searchenginejournal.com/googles-liz-reid-personalization-can-help-small-publishers/581010/",
     "publishedAt": "2026-06-30T02:54:23.000Z",
-    "slug": "google-dan-kucuk-yayincilara-kisisellestirme-destegi"
+    "slug": "google-dan-kucuk-yayincilara-kisisellestirme-tavsiyesi"
   },
   "articles": [
     {
       "title": "Google: Meta Açıklamalar SEO İçin Zorunlu Değil, Ancak Yazmak Faydalı",
-      "summary": "Google, meta açıklamaların SEO için zorunlu olmadığını doğruladı ancak yazmanın yine de değerli olduğunu açıkladı.",
+      "summary": "Google, meta açıklamaların SEO için zorunlu olmadığını doğruladı ancak yazmanın faydalı olduğunu açıkladı.",
       "body": [
-        "Google Search Engine Journal’a yaptığı açıklamada, meta açıklamaların arama sıralaması için doğrudan bir gereklilik olmadığını belirtti. Ancak, kullanıcı deneyimini artırdığı ve tıklama oranlarını iyileştirdiği için meta açıklamaların yazılmasının önerildiği vurgulandı.",
-        "Bu açıklama, SEO uzmanlarının meta açıklamalara tamamen odaklanmaktan ziyade, içerik kalitesi ve kullanıcı niyetine uygunluk gibi diğer faktörlere de önem vermesi gerektiğini gösteriyor."
+        "Google, meta açıklamaların arama motoru optimizasyonu için zorunlu olmadığını belirtti.",
+        "Buna rağmen, meta açıklamaların kullanıcı deneyimini iyileştirdiği ve tıklama oranlarını artırabileceği için yazılmasının değerli olduğu vurgulandı."
       ],
       "category": "SEO / GEO",
       "sourceName": "Search Engine Journal",
@@ -31,25 +31,25 @@
       "slug": "google-meta-aciklamalar-seo-icin-zorunlu-degil-ancak-yazmak-faydali"
     },
     {
-      "title": "Google, AI Eğitimi İçin Kamu Web İçeriğinin Adil Kullanım Olduğunu Savunuyor",
-      "summary": "Google, AI modellerinin eğitimi için kamuya açık web içeriğinin adil kullanım kapsamında kalması gerektiğini belirtti.",
+      "title": "Google, AI Eğitiminde Kamu Web İçeriğinin Adil Kullanım Olduğunu Savunuyor",
+      "summary": "Google, yapay zeka eğitiminde kamuya açık web içeriğinin adil kullanım kapsamında kalması gerektiğini belirtti.",
       "body": [
-        "Google, AI yönetişim raporunda, kamuya açık web verilerinin AI eğitiminde kullanılmasının adil kullanım olduğunu savundu. Ayrıca, içerik sahiplerine opt-out seçenekleri, içerik kaldırma talepleri ve özel içerikler için ücretli anlaşmalar sunulduğunu açıkladı.",
-        "Bu yaklaşım, AI geliştirme süreçlerinde içerik sahiplerinin haklarının korunması ile inovasyonun dengelenmesi amacını taşıyor."
+        "Google’ın yapay zeka yönetişim belgesinde, kamuya açık web içeriğinin AI eğitiminde adil kullanım olarak değerlendirilmesi gerektiği savunuldu.",
+        "Belge, içerik sahiplerinin opt-out seçenekleri, içerik kaldırma talepleri ve özel içerikler için ücretli anlaşmalar gibi kontrollerin önemine işaret ediyor."
       ],
       "category": "SEO / GEO",
       "sourceName": "Search Engine Journal",
       "url": "https://www.searchenginejournal.com/google-defends-ai-training-as-fair-use-in-governance-paper/580776/",
       "publishedAt": "2026-06-29T15:38:04.000Z",
       "readingTime": "3 dk",
-      "slug": "google-ai-egitimi-icin-kamu-web-iceriginin-adil-kullanim-oldugunu-savunuyor"
+      "slug": "google-ai-egitiminde-kamu-web-iceriginin-adil-kullanim-oldugunu-savunuyor"
     },
     {
       "title": "Google Gemini’nin Kişiselleştirilmiş AI Görüntü Üretimi ABD’de Ücretsiz Oldu",
-      "summary": "Google, Gemini’nin kişiselleştirilmiş AI görüntü üretimini ABD’de uygun ücretsiz kullanıcılar için açtı.",
+      "summary": "Google, Gemini’nin kişiselleştirilmiş yapay zeka görüntü üretimini ABD’de uygun ücretsiz kullanıcılar için açtı.",
       "body": [
-        "Google, Gemini adlı yapay zeka destekli sohbet robotunun kullanıcıların ilgi alanlarına ve bağlı Google uygulamalarından aldığı verilere göre kişiselleştirilmiş görüntüler oluşturmasını ABD’de ücretsiz olarak sunmaya başladı.",
-        "Bu gelişme, AI destekli görsel içerik üretiminde kişiselleştirmenin önemini artırırken, kullanıcı deneyimini zenginleştirmeyi hedefliyor."
+        "Google, Gemini adlı yapay zeka destekli sohbet robotunun kullanıcıların ilgi alanlarına ve bağlı Google uygulamalarından gelen verilere dayalı görüntüler oluşturmasını sağlayan kişiselleştirilmiş AI görüntü üretimini ABD’de ücretsiz hale getirdi.",
+        "Bu adım, kullanıcıların daha özgün ve ilgi çekici görseller elde etmesini amaçlıyor."
       ],
       "category": "AI",
       "sourceName": "TechCrunch AI",
@@ -59,58 +59,119 @@
       "slug": "google-gemini-nin-kisisellestirilmis-ai-goruntu-uretimi-abd-de-ucretsiz-oldu"
     },
     {
-      "title": "Yüksek Yoğunluklu AI Kullanan Şirketlerde İş Gücü Artışı Gözlendi",
-      "summary": "Yeni rapor, yoğun AI kullanan şirketlerde çalışan sayısının %10,2 arttığını ve giriş seviyesi pozisyonların %12 yükseldiğini ortaya koydu.",
+      "title": "Yapay Zeka İş Tartışmaları Daha Karmaşık Hale Geliyor",
+      "summary": "Yeni rapor, yoğun yapay zeka kullanan şirketlerin çalışan sayısında artış olduğunu ortaya koydu.",
       "body": [
-        "TechCrunch AI tarafından yayımlanan rapora göre, yapay zekayı yoğun şekilde benimseyen şirketlerde iş gücü artışı yaşanıyor. Bu durum, AI’nın genç ve giriş seviyesi işlerin yok olacağı yönündeki yaygın algıyı çürütüyor.",
-        "Raporda, AI’nın iş süreçlerini destekleyerek yeni iş alanları yarattığı ve çalışan sayısını artırdığı vurgulanıyor."
+        "Yapay zeka yoğun olarak benimseyen şirketlerde çalışan sayısının %10,2 arttığı tespit edildi.",
+        "Özellikle giriş seviyesi pozisyonlarda %12 artış gözlenmesi, yapay zekanın genç iş gücünü azaltacağı yönündeki yaygın görüşlere karşıt bir veri sunuyor."
       ],
       "category": "AI",
       "sourceName": "TechCrunch AI",
       "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
       "publishedAt": "2026-06-30T04:01:00.000Z",
       "readingTime": "3 dk",
-      "slug": "yuksek-yogunluklu-ai-kullanan-sirketlerde-is-gucu-artisi-gozlendi"
+      "slug": "yapay-zeka-is-tartismalari-daha-karmasik-hale-geliyor"
     },
     {
-      "title": "YouTube Marka Kampanyaları İçin Daha Derin İçgörüler Sunuluyor",
-      "summary": "Google Ads, YouTube marka kampanyalarının reklamverenler için önemli sonuçlar sağladığını kanıtlamaya yardımcı olacak yeni özellikler duyurdu.",
+      "title": "Reddit Üzerinden Yapay Zeka Atıfları Satın Almak Yeni Link Çiftliği",
+      "summary": "Satın alınan Reddit atıflarının filtreleneceği ve gerçekliğin en etkili strateji olduğu vurgulandı.",
       "body": [
-        "Google Ads Blog’da paylaşılan bilgilere göre, YouTube marka kampanyalarının performansını daha iyi ölçmek ve reklamverenlerin yatırım getirisini artırmak için yeni analiz araçları geliştirildi.",
-        "Bu özellikler, dijital pazarlama stratejilerinde YouTube’un etkinliğini artırmak isteyen markalar için önemli fırsatlar sunuyor."
+        "Yapay zeka atıflarını kazanmak için Reddit üzerinden satın alma stratejisi, geçmişte Penguin algoritmasının satın alınan bağlantıları filtrelemesi gibi engellenecek.",
+        "Gerçek ve organik içerik üretmenin, dijital pazarlamada sürdürülebilir başarı için tek yol olduğu belirtildi."
+      ],
+      "category": "SEO / GEO",
+      "sourceName": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/buying-reddit-to-win-ai-citations-is-the-new-link-farm/578016/",
+      "publishedAt": "2026-06-29T15:00:10.000Z",
+      "readingTime": "3 dk",
+      "slug": "reddit-uzerinden-yapay-zeka-atiflari-satin-almak-yeni-link-ciftligi"
+    },
+    {
+      "title": "Base44, Kendi Yapay Zeka Modelini Başlattı",
+      "summary": "Wix’e bağlı Base44, kendi yapay zeka modelini geliştirerek sektörde rekabet etmeyi hedefliyor.",
+      "body": [
+        "Wix’in sahip olduğu kodlama platformu Base44, kendi yapay zeka modelini kullanıma sundu.",
+        "Şirket, bu modelin gelecekte mevcut öncü modelleri geride bırakmasını amaçlıyor."
+      ],
+      "category": "AI",
+      "sourceName": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+      "publishedAt": "2026-06-30T02:28:41.000Z",
+      "readingTime": "3 dk",
+      "slug": "base44-kendi-yapay-zeka-modelini-baslatti"
+    },
+    {
+      "title": "Tidal, Yapay Zeka Üretimi Müziğe Telif Ödemeyecek, Ancak Yasaklamıyor",
+      "summary": "Tidal, yapay zeka ile üretilen müzikleri etiketleyerek şeffaflık sağlayacak ve 15 Temmuz’dan itibaren bu müziklerin para kazanmasını durduracak.",
+      "body": [
+        "Tidal, yapay zeka tarafından tamamen oluşturulan müzik parçalarını özel bir ikonla işaretleyecek.",
+        "Bu parçalar 15 Temmuz’dan itibaren platformda para kazanamayacak ancak tamamen yasaklanmayacak.",
+        "Ayrıca, sanatçıları taklit eden yapay zeka müzikleri otomatik araçlarla kaldırılacak."
+      ],
+      "category": "AI",
+      "sourceName": "The Verge AI",
+      "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+      "publishedAt": "2026-06-29T19:47:35.000Z",
+      "readingTime": "3 dk",
+      "slug": "tidal-yapay-zeka-uretimi-muzige-telif-odemeyecek-ancak-yasaklamiyor"
+    },
+    {
+      "title": "Yapay Zeka Destekli Lojistik Platformu Derya, 1.1 Milyon Dolar Yatırım Aldı",
+      "summary": "Yapay zeka destekli lojistik platformu Derya, ABD merkezli yatırımcılardan 1.1 milyon dolar yatırım aldı.",
+      "body": [
+        "Derya, yapay zeka teknolojileriyle lojistik ve yük taşımacılığını optimize eden bir platform olarak öne çıkıyor.",
+        "Y Combinator, 212 ve Ubicloud kurucu ortağı gibi yatırımcıların katıldığı turda 1.1 milyon dolar fon sağlandı."
       ],
       "category": "Dijital Pazarlama",
-      "sourceName": "Google Ads Blog",
-      "url": "https://blog.google/products/ads-commerce/youtube-brand-campaign-updates/",
-      "publishedAt": "2026-06-29T14:00:00.000Z",
+      "sourceName": "Webrazzi",
+      "url": "https://webrazzi.com/2026/06/30/yapay-zeka-destekli-lojistik-platformu-derya-1-1-milyon-dolar-yatirim-aldi/",
+      "publishedAt": "2026-06-30T07:21:42.000Z",
       "readingTime": "3 dk",
-      "slug": "youtube-marka-kampanyalari-icin-daha-derin-icgoruler-sunuluyor"
+      "slug": "yapay-zeka-destekli-lojistik-platformu-derya-1-1-milyon-dolar-yatirim-aldi"
+    },
+    {
+      "title": "Timus Networks, ABD’li Siber Güvenlik Şirketi CyberFOX Tarafından Satın Alındı",
+      "summary": "Bulut tabanlı ağ güvenliği çözümleri sunan Timus Networks, CyberFOX tarafından satın alındı.",
+      "body": [
+        "Tuğrul Tekbulut ve Ahmet Polat tarafından kurulan Timus Networks, ABD merkezli CyberFOX şirketinin portföyüne katıldı.",
+        "Bu satın alma, siber güvenlik alanında küresel iş birliklerinin artmasına işaret ediyor."
+      ],
+      "category": "Dijital Pazarlama",
+      "sourceName": "Webrazzi",
+      "url": "https://webrazzi.com/2026/06/30/timus-networks-cyberfox-tarafindan-satin-alindi/",
+      "publishedAt": "2026-06-30T06:30:56.000Z",
+      "readingTime": "3 dk",
+      "slug": "timus-networks-abd-li-siber-guvenlik-sirketi-cyberfox-tarafindan-satin-alindi"
     }
   ],
   "highlights": [
-    "Google, küçük yayıncıların AI aramalarda bulunabilirliğini kişiselleştirme ile artırabileceğini belirtti.",
-    "Meta açıklamalar SEO için zorunlu değil ancak yazılması kullanıcı deneyimini iyileştiriyor.",
-    "Google, AI eğitimi için kamu web içeriğinin adil kullanım olduğunu savunuyor.",
-    "Gemini’nin kişiselleştirilmiş AI görüntü üretimi ABD’de ücretsiz olarak sunulmaya başlandı."
+    "Google, küçük yayıncıların AI aramalarda öne çıkması için kişiselleştirmeyi öneriyor.",
+    "Meta açıklamalar SEO için zorunlu değil ancak yazmak fayda sağlıyor.",
+    "Google, AI eğitiminde kamu web içeriğinin adil kullanım olduğunu savunuyor.",
+    "Tidal, AI müziklerini etiketleyip para kazanmayı durduracak ancak yasaklamayacak."
   ],
   "quickNotes": [
-    "AI kullanımı iş gücünde artışa neden oluyor, iş kaybı algısını zayıflatıyor.",
-    "YouTube marka kampanyaları için yeni analiz araçları reklamverenlere sunuldu.",
-    "Tidal, AI ile üretilen müziklerde gelir paylaşımını durdurma kararı aldı.",
-    "AI şirketlerinin sağlık verisi satışını yasaklayan yasa tasarısı ABD’de gündemde."
+    "Yapay zeka kullanan şirketlerde çalışan sayısı artıyor, iş kaybı endişeleri azalmaya başladı.",
+    "Reddit üzerinden yapay zeka atıfları satın almak yeni bir link çiftliği riski taşıyor.",
+    "Base44, kendi yapay zeka modelini geliştirerek rekabet gücünü artırmayı hedefliyor.",
+    "Dijital pazarlamada yapay zeka destekli lojistik platformları yatırım almaya devam ediyor."
   ],
-  "enesActions": [
+  "hhWebActions": [
     {
-      "title": "Web Sitesinde Kişiselleştirme Uygulamalarını Geliştir",
-      "detail": "Kullanıcıların ilgi alanlarına göre içerik ve öneri sunan kişiselleştirme özelliklerini web sitende test ederek küçük yayıncıların görünürlüğünü artır."
+      "title": "Web Sitesinde Kişiselleştirilmiş İçerik Stratejisi Geliştirin",
+      "detail": "Google’ın önerdiği gibi, Hisar Hospital web sitesinde kullanıcıların ilgi alanlarına göre kişiselleştirilmiş içerik ve kaynaklar sunarak ziyaretçi deneyimini artırın."
     },
     {
-      "title": "Meta Açıklamaları Optimize Et",
-      "detail": "SEO stratejinde meta açıklamaların zorunlu olmadığını bilerek, kullanıcı deneyimini artıracak şekilde açıklamalar yazmaya devam et."
+      "title": "Meta Açıklamaları Optimize Edin",
+      "detail": "SEO performansını desteklemek için tüm sayfalarda açıklayıcı ve etkili meta açıklamalar hazırlayın, böylece tıklama oranlarını artırabilirsiniz."
     },
     {
-      "title": "YouTube Kampanyalarını Yeni Analiz Araçlarıyla Takip Et",
-      "detail": "YouTube marka kampanyalarının performansını Google Ads’in yeni sunduğu analiz özellikleriyle ölçerek reklam yatırımlarının geri dönüşünü artır."
+      "title": "AI Destekli Görsel İçerik Üretimini Entegre Edin",
+      "detail": "Gemini gibi yapay zeka araçları kullanarak sağlıkla ilgili görseller oluşturun ve web sitesinde kullanıcıların dikkatini çekin."
+    },
+    {
+      "title": "Yapay Zeka ve Dijital Güvenlik İçin Bilgilendirici Blog İçerikleri Hazırlayın",
+      "detail": "Yapay zeka ve siber güvenlik alanındaki güncel gelişmeleri ele alan blog yazıları ile Hisar Hospital’ın dijital otoritesini güçlendirin."
     }
   ],
   "sources": [
