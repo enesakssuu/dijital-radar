@@ -9,5 +9,5 @@
   <path d="M20 34c0-6.63 5.37-12 12-12" stroke="#78A6FF" stroke-width="2" stroke-linecap="round" opacity="0.75"/>
   <path d="M15 34c0-9.39 7.61-17 17-17" stroke="#78A6FF" stroke-width="2" stroke-linecap="round" opacity="0.45"/>
   <text x="78" y="30" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#07172F">Dijital Radar</text>
-  <text x="79" y="49" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="1.8" fill="#667085">GÜNLÜK DİJİTAL İSTİHBARAT</text>
+  <text x="79" y="49" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="1.8" fill="#667085">GÜNLÜK DİJİTAL HABERLER</text>
 </svg>

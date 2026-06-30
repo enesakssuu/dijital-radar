@@ -7,7 +7,6 @@ const els = {
   source: document.getElementById('articleSource'),
   related: document.getElementById('relatedArticles'),
   breadcrumbDate: document.getElementById('breadcrumbDate'),
-  sharePreview: document.getElementById('sharePreview'),
   nativeShareButton: document.getElementById('nativeShareButton'),
   copyShareButton: document.getElementById('copyShareButton'),
   whatsappShareButton: document.getElementById('whatsappShareButton'),
@@ -72,7 +71,6 @@ function setupShare(article, digest) {
   const encodedText = encodeURIComponent(text);
   const encodedUrl = encodeURIComponent(url);
 
-  if (els.sharePreview) els.sharePreview.textContent = text;
   if (els.whatsappShareButton) els.whatsappShareButton.href = `https://wa.me/?text=${encodedText}`;
   if (els.linkedinShareButton) els.linkedinShareButton.href = `https://www.linkedin.com/sharing/share-offsite/?url=${encodedUrl}`;
   if (els.xShareButton) els.xShareButton.href = `https://twitter.com/intent/tweet?text=${encodeURIComponent(article.title)}&url=${encodedUrl}`;

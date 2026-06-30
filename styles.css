@@ -88,3 +88,33 @@ button,input{font:inherit}
   .share-actions{display:grid;grid-template-columns:1fr 1fr}
   .share-button.primary{grid-column:1/-1}
 }
+
+
+.share-box-compact{
+  display:flex;
+  align-items:center;
+  justify-content:flex-start;
+  gap:12px;
+  padding:18px;
+}
+.share-box-compact .share-actions{
+  width:100%;
+  justify-content:flex-start;
+}
+.share-box-compact .share-status{
+  margin-left:auto;
+  white-space:nowrap;
+}
+@media (max-width: 720px){
+  .share-box-compact{
+    align-items:stretch;
+  }
+  .share-box-compact .share-actions{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+  }
+  .share-box-compact .share-status{
+    margin-left:0;
+    white-space:normal;
+  }
+}

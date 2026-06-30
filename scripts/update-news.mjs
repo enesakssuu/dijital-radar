@@ -257,7 +257,7 @@ Kurallar:
 - Site arayüzünde ve JSON içeriğinde kullanıcıya görünen hiçbir metin İngilizce kalmasın; yalnızca kaynak marka adları orijinal kalabilir.
 - Kısa, profesyonel, haber sitesi üslubunda yaz.
 - Sağlık iddialarında kesin tıbbi öneri verme; dijital pazarlama ve teknoloji etkisine odaklan.
-- Enes, Hisar Hospital Intercontinental’da web tasarım ve dijital pazarlama uzmanı. En altta onun kullanabileceği somut aksiyonlar üret.
+- HH - Web bölümü için Hisar Hospital web tasarım ve dijital pazarlama ekibinin kullanabileceği somut aksiyonlar üret.
 - Haberleri abartma; kaynaklardan gelen başlıklara dayan.
 
 JSON şeması:
