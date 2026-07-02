@@ -1,120 +1,120 @@
 {
   "date": "2026-07-02",
-  "generatedAt": "2026-07-02T05:19:08.163Z",
+  "generatedAt": "2026-07-02T07:56:58.606Z",
   "readingTime": "6 dk okuma",
   "hero": {
-    "title": "Google AI Overviews Çalışması Kaybedilen Tıklamaların Kalitesinin Düşük Olmadığını Gösterdi",
-    "summary": "Google'ın güncellenen AI Overviews deneyi, özetli ve özet siz tıklamalar arasında hemen çıkma oranı, sitede kalma süresi veya aramaya dönüşlerde ölçülebilir bir fark olmadığını ortaya koydu.",
+    "title": "Together AI 800 Milyon Dolar Yatırım Alarak Değerlemesini 8,3 Milyar Dolara Çıkardı",
+    "summary": "2022'de kurulan yapay zeka altyapı şirketi Together AI, Seri C yatırım turunda 800 milyon dolar yatırım aldı ve değerlemesini 8,3 milyar dolara yükseltti.",
     "body": [
-      "Google tarafından yapılan yeni bir AI Overviews çalışması, kullanıcıların tıklama davranışları üzerinde özetlerin etkisini inceledi. Deney sonuçları, özet içeren tıklamalar ile özet içermeyen tıklamalar arasında hemen çıkma oranı, sitede geçirilen süre ve arama sonuçlarına geri dönüş oranlarında anlamlı bir fark olmadığını gösterdi.",
-      "Bu bulgu, kaybedilen tıklamaların kalitesinin düşmediğini ve özetlerin kullanıcı deneyimini olumsuz etkilemediğini ortaya koyuyor. SEO stratejileri ve içerik optimizasyonunda özetlerin kullanımı konusunda önemli bir referans olarak değerlendirilebilir."
+      "Together AI, yapay zeka altyapısı alanında hızla büyüyen şirketlerden biri olarak dikkat çekiyor. 2022 yılında kurulan şirket, Seri C yatırım turunda 800 milyon dolar yatırım alarak değerlemesini 8,3 milyar dolara çıkardı.",
+      "Bu yatırım turuna katılan yatırımcılar ve şirketin gelecek planları, yapay zeka teknolojilerinin dijital pazarlama ve diğer sektörlerdeki etkisini artırmaya devam edeceğinin sinyalini veriyor."
     ],
-    "category": "SEO / GEO",
-    "sourceName": "Search Engine Journal",
-    "url": "https://www.searchenginejournal.com/google-ai-overviews-study-finds-lost-clicks-werent-lower-quality/581298/",
-    "publishedAt": "2026-07-01T23:56:14.000Z",
-    "slug": "google-ai-overviews-calismasi-kaybedilen-tiklamalarin-kalitesinin-dusuk-olmadigini-gosterd"
+    "category": "Dijital Pazarlama",
+    "sourceName": "Webrazzi",
+    "url": "https://webrazzi.com/2026/07/02/together-ai-800-milyon-dolar-yatirim-alarak-degerlemesini-83-milyar-dolara-cikardi/",
+    "publishedAt": "2026-07-02T07:00:00.000Z",
+    "slug": "together-ai-800-milyon-dolar-yatirim-alarak-degerlemesini-8-3-milyar-dolara-cikardi"
   },
   "articles": [
     {
-      "title": "OpenAI İşe Alımları ChatGPT’ye Görsel ve Video Reklamların Gelebileceğini İşaret Ediyor",
-      "summary": "OpenAI’nin yeni iş ilanları ve reklam planları, ChatGPT için görsel, video, yerel ve sohbet tabanlı reklam formatlarının yakında sunulabileceğine işaret ediyor.",
+      "title": "Google AI Overviews Çalışması Kaybedilen Tıklamaların Kalitesinin Düşük Olmadığını Gösterdi",
+      "summary": "Google'ın güncellenen AI Overviews deneyi, özetli ve özet siz tıklamalar arasında hemen çıkma oranı, sitede kalma süresi veya aramaya dönüş açısından anlamlı fark olmadığını ortaya koydu.",
       "body": [
-        "OpenAI, ChatGPT platformunda reklam deneyimini genişletmek için işe alımlar yapıyor. Bu gelişme, kullanıcıların sohbet ortamında görsel ve video reklamlar gibi yeni reklam formatlarıyla karşılaşabileceğini gösteriyor.",
-        "Reklam teknolojilerinde yenilikçi yaklaşımlar benimseyen OpenAI, bu sayede reklamverenlere daha etkili ve etkileşimli reklam çözümleri sunmayı hedefliyor."
+        "Google tarafından yapılan AI Overviews deneyinde, kullanıcıların özetli içeriklere tıklaması ile özet olmayan içeriklere tıklaması karşılaştırıldı. Sonuçlar, kaybedilen tıklamaların kalite açısından düşük olmadığını gösterdi.",
+        "Bu bulgu, SEO stratejilerinde özetlerin kullanıcı deneyimini olumsuz etkilemediğini ve tıklama kalitesinin korunabileceğini işaret ediyor."
+      ],
+      "category": "SEO / GEO",
+      "sourceName": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/google-ai-overviews-study-finds-lost-clicks-werent-lower-quality/581298/",
+      "publishedAt": "2026-07-01T23:56:14.000Z",
+      "readingTime": "3 dk",
+      "slug": "google-ai-overviews-calismasi-kaybedilen-tiklamalarin-kalitesinin-dusuk-olmadigini-gosterd"
+    },
+    {
+      "title": "OpenAI İş İlanları ChatGPT'ye Görsel ve Video Reklamların Gelebileceğini Gösteriyor",
+      "summary": "OpenAI'nin yeni iş ilanları ve reklam planları, ChatGPT platformunda görsel, video, yerel ve sohbet tabanlı reklam formatlarının yakında kullanılabileceğine işaret ediyor.",
+      "body": [
+        "OpenAI, ChatGPT için reklam modellerini çeşitlendirmeye hazırlanıyor. İş ilanları, platformda görsel ve video reklamların yanı sıra yerel ve konuşma tabanlı reklamların da sunulacağını gösteriyor.",
+        "Bu gelişme, dijital pazarlama stratejilerinde yapay zeka destekli sohbet platformlarının reklam alanı olarak önem kazanacağını ortaya koyuyor."
       ],
       "category": "SEO / GEO",
       "sourceName": "Search Engine Journal",
       "url": "https://www.searchenginejournal.com/openai-hiring-points-to-image-video-ads-coming-to-chatgpt/581289/",
       "publishedAt": "2026-07-01T21:44:34.000Z",
       "readingTime": "3 dk",
-      "slug": "openai-ise-alimlari-chatgpt-ye-gorsel-ve-video-reklamlarin-gelebilecegini-isaret-ediyor"
+      "slug": "openai-is-ilanlari-chatgpt-ye-gorsel-ve-video-reklamlarin-gelebilecegini-gosteriyor"
     },
     {
-      "title": "Google Akıllı Hoparlöründe İyi İş Çıkardı, Ancak Gemini Henüz Hazır Değil",
-      "summary": "Google’ın yeni akıllı hoparlörü, müzik ve ev kontrolü dışında kullanıcıları etkileyecek ikinci bir işlev arayışında. Gemini AI entegrasyonu ise henüz beklenen seviyede değil.",
+      "title": "Hint Teknoloji Patronu 30 Milyon Dolar Kendi Parasıyla Microsoft Office Alternatifi AI Yazılımı Geliştiriyor",
+      "summary": "Bhavin Turakhia, beşinci girişimi olarak Microsoft Office ve Google Apps'a rakip olacak yapay zeka destekli bir ofis yazılımı geliştirmek için 30 milyon dolar yatırım yapıyor.",
       "body": [
-        "Akıllı hoparlörler, müzik çalma, zamanlayıcı ve ışık kontrolü gibi temel işlevlerin ötesinde kullanıcılar için ikna edici yeni özellikler arıyor. Amazon’un Alexa destekli yeni donanımı piyasaya sürmesinin ardından sıra Google’a geldi.",
-        "Google’ın Gemini AI destekli hoparlörü, henüz gelişim aşamasında ve kullanıcı deneyimini tam anlamıyla dönüştürecek özelliklere sahip değil. Bu durum, akıllı hoparlör pazarında rekabetin zorluklarını gözler önüne seriyor."
+        "Hintli teknoloji girişimcisi Bhavin Turakhia, Neo adlı yeni girişimiyle yapay zeka destekli ofis yazılımı pazarına giriyor. 30 milyon dolarlık yatırımıyla Microsoft Office ve Google Apps'a alternatif oluşturmayı hedefliyor.",
+        "Bu gelişme, kurumsal yazılım sektöründe yapay zekanın kullanımının artacağını ve rekabetin yoğunlaşacağını gösteriyor."
       ],
       "category": "AI",
-      "sourceName": "The Verge AI",
-      "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
-      "publishedAt": "2026-07-01T12:00:00.000Z",
+      "sourceName": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+      "publishedAt": "2026-07-02T05:30:00.000Z",
       "readingTime": "3 dk",
-      "slug": "google-akilli-hoparlorunde-iyi-is-cikardi-ancak-gemini-henuz-hazir-degil"
+      "slug": "hint-teknoloji-patronu-30-milyon-dolar-kendi-parasiyla-microsoft-office-alternatifi-ai-yaz"
     },
     {
-      "title": "Yeni WordPress Eklentisi AI’yı Web Sitenize Güvenli ve Kolayca Bağlıyor",
-      "summary": "WPVibe adlı WordPress eklentisi, neredeyse her türlü yapay zekayı sitenize entegre etmeyi ve içeriklerinizi güvenli şekilde düzenlemeyi kolaylaştırıyor.",
+      "title": "Yeni WordPress Eklentisi WPVibe AI'yı Web Sitenize Güvenli ve Kolayca Bağlamanızı Sağlıyor",
+      "summary": "WPVibe eklentisi, WordPress sitenize neredeyse her türlü yapay zekayı kolayca entegre etmenize ve içeriklerinizi güvenle düzenlemenize olanak tanıyor.",
       "body": [
-        "WordPress kullanıcıları için geliştirilen WPVibe eklentisi, AI teknolojilerini sitelerine sorunsuz ve güvenli biçimde entegre etme imkanı sunuyor. Bu sayede içerik yönetimi ve düzenleme süreçleri hızlanıyor.",
-        "Eklenti, AI destekli içerik üretimi ve düzenlemede kullanıcı dostu bir arayüz sağlarken, güvenlik önlemleriyle de veri bütünlüğünü koruyor."
+        "Yeni WPVibe WordPress eklentisi, yapay zeka teknolojilerini web sitelerine entegre etmek isteyen kullanıcılar için pratik bir çözüm sunuyor. Eklenti, güvenlik ve kullanım kolaylığı ön planda tutularak geliştirildi.",
+        "Bu araç, dijital pazarlama ve içerik yönetimi süreçlerinde yapay zekanın avantajlarından faydalanmak isteyen WordPress kullanıcıları için önemli bir yenilik olarak öne çıkıyor."
       ],
       "category": "SEO / GEO",
       "sourceName": "Search Engine Journal",
       "url": "https://www.searchenginejournal.com/new-wordpress-plugin-safely-and-easily-connects-ai-to-your-website/581219/",
       "publishedAt": "2026-07-01T11:05:25.000Z",
       "readingTime": "3 dk",
-      "slug": "yeni-wordpress-eklentisi-ai-yi-web-sitenize-guvenli-ve-kolayca-bagliyor"
+      "slug": "yeni-wordpress-eklentisi-wpvibe-ai-yi-web-sitenize-guvenli-ve-kolayca-baglamanizi-sagliyor"
     },
     {
-      "title": "Cloudflare’ın Yeni Politikası AI Şirketlerini Yayıncı İçeriği İçin Ücret Ödemeye Zorluyor",
-      "summary": "Cloudflare, AI şirketlerine 15 Eylül’e kadar arama için kullanılan web tarayıcıları ile AI eğitimi için kullanılanları ayırmaları gerektiğini bildiriyor, aksi halde birçok yayıncı sitesinde engellenebilirler.",
+      "title": "Cloudflare'ın Yeni Politikası AI Şirketlerini Yayıncıların İçeriği İçin Ücret Ödemeye Zorluyor",
+      "summary": "Cloudflare, AI şirketlerine 15 Eylül'e kadar web tarayıcılarını arama ve AI eğitim amaçlı olarak ayırmaları için süre verdi, aksi halde birçok yayıncı sitesinde engellenme riski bulunuyor.",
       "body": [
-        "Cloudflare, AI şirketlerinin kullandığı web tarayıcılarını iki kategoriye ayırmalarını zorunlu kılan yeni bir politika açıkladı. Bu ayrım yapılmazsa, AI şirketlerinin tarayıcıları birçok yayıncı sitesinde varsayılan olarak engellenebilecek.",
-        "Bu politika, yayıncıların içeriklerinin AI tarafından izinsiz kullanılmasını önlemeyi ve içerik üreticilerine adil gelir sağlamayı amaçlıyor."
+        "Cloudflare, yapay zeka şirketlerinin web içeriklerini kullanma şekline yönelik yeni bir politika açıkladı. AI şirketleri, arama amaçlı ve eğitim amaçlı web tarayıcılarını ayırmazsa, yayıncılar tarafından engellenebilecekler.",
+        "Bu politika, dijital içerik üreticilerinin haklarını korumaya yönelik önemli bir adım olarak değerlendiriliyor ve AI ile içerik kullanımı arasındaki dengeyi yeniden şekillendiriyor."
       ],
       "category": "AI",
       "sourceName": "TechCrunch AI",
       "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
       "publishedAt": "2026-07-01T17:48:37.000Z",
       "readingTime": "3 dk",
-      "slug": "cloudflare-in-yeni-politikasi-ai-sirketlerini-yayinci-icerigi-icin-ucret-odemeye-zorluyor"
-    },
-    {
-      "title": "Venice AI, 65 Milyon Dolarlık Seri A Yatırımıyla Unicorn Oldu",
-      "summary": "Gizliliğe öncelik veren AI platformu Venice AI, yıllık 70 milyon doların üzerinde gelirle kârlı büyümesini sürdürüyor.",
-      "body": [
-        "Venice AI, gizlilik odaklı yapay zeka çözümleri sunan platformu ile yatırımcıların ilgisini çekti. 65 milyon dolarlık Seri A yatırımı sonrası şirketin değeri 1 milyar doları aşarak unicorn statüsüne ulaştı.",
-        "CEO Erik Voorhees, şirketin yıllık gelirinin 70 milyon doların üzerinde olduğunu ve kârlı büyümenin devam ettiğini açıkladı."
-      ],
-      "category": "AI",
-      "sourceName": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
-      "publishedAt": "2026-07-01T14:25:23.000Z",
-      "readingTime": "3 dk",
-      "slug": "venice-ai-65-milyon-dolarlik-seri-a-yatirimiyla-unicorn-oldu"
+      "slug": "cloudflare-in-yeni-politikasi-ai-sirketlerini-yayincilarin-icerigi-icin-ucret-odemeye-zorl"
     }
   ],
   "highlights": [
-    "Google AI Overviews çalışması, özetli tıklamaların kalitesinin düşük olmadığını gösterdi.",
+    "Together AI, 800 milyon dolar yatırım alarak değerlemesini 8,3 milyar dolara çıkardı.",
     "OpenAI, ChatGPT için görsel ve video reklam formatları üzerinde çalışıyor.",
-    "Google’ın Gemini destekli akıllı hoparlörü henüz beklenen performansa ulaşamadı.",
-    "Cloudflare, AI şirketlerini yayıncı içerikleri için ücret ödemeye zorlayan yeni politika getirdi."
+    "WPVibe eklentisi WordPress sitelerine yapay zekayı güvenli şekilde entegre ediyor.",
+    "Cloudflare, AI şirketlerini yayıncı içerikleri için ücret ödemeye zorluyor."
   ],
   "quickNotes": [
-    "WPVibe eklentisi WordPress sitelerine AI entegrasyonunu kolaylaştırıyor.",
-    "Venice AI, gizlilik odaklı platformuyla unicorn oldu.",
-    "Meta, fazla AI işlem gücünü bulut hizmeti olarak satmayı planlıyor.",
-    "Google’ın Nano Banana 2 Lite modeli hızlı ve düşük maliyetli görsel üretim sunuyor."
+    "Google AI Overviews deneyi, kaybedilen tıklamaların düşük kaliteli olmadığını gösterdi.",
+    "Hintli girişimci Bhavin Turakhia, AI destekli ofis yazılımı geliştirmek için 30 milyon dolar yatırıyor.",
+    "Google, Nano Banana 2 Lite adlı hızlı ve düşük maliyetli yeni görsel üretim modelini duyurdu.",
+    "Meta, fazla AI hesaplama gücünü bulut hizmeti olarak satmayı planlıyor."
   ],
   "hhWebActions": [
     {
-      "title": "Hisar Hospital Web Sitesine AI Destekli İçerik Özetleme Eklentisi Entegre Edin",
-      "detail": "Google AI Overviews çalışmasından yola çıkarak, hastane web sitesinde kullanıcıların içerikleri hızlıca anlamasını sağlayacak AI destekli özetleme araçları ekleyin."
+      "title": "Hisar Hospital Web Sitesine WPVibe Eklentisi Entegrasyonu",
+      "detail": "WPVibe eklentisi kullanılarak Hisar Hospital web sitesine yapay zeka destekli içerik düzenleme ve yönetim özellikleri eklenebilir. Bu sayede içerik güncellemeleri daha hızlı ve güvenli yapılabilir."
     },
     {
-      "title": "WPVibe Eklentisi ile AI Entegrasyonunu Test Edin",
-      "detail": "WordPress tabanlı Hisar Hospital sitesinde WPVibe eklentisini kullanarak AI destekli içerik düzenleme ve yönetim süreçlerini optimize edin."
+      "title": "Together AI Yatırım Haberini Dijital Pazarlama Kampanyasında Kullanın",
+      "detail": "Together AI'nın büyük yatırım alması sağlık sektöründe yapay zeka altyapısının önemini vurgulamak için Hisar Hospital'ın dijital pazarlama içeriklerinde referans olarak kullanılabilir."
     },
     {
-      "title": "Reklam Stratejisine Görsel ve Video Formatları Ekleyin",
-      "detail": "OpenAI’nin ChatGPT için geliştirdiği yeni reklam formatlarından ilham alarak, hastane dijital reklam kampanyalarında görsel ve video içeriklere ağırlık verin."
+      "title": "ChatGPT Reklam Formatlarına Hazırlık İçin Strateji Geliştirin",
+      "detail": "OpenAI'nin ChatGPT için görsel ve video reklam planları doğrultusunda, Hisar Hospital dijital reklam stratejisini bu yeni formatlara uyum sağlayacak şekilde güncelleyebilir."
     },
     {
-      "title": "Cloudflare Politikalarını Takip Edin ve AI İçerik Kullanımını Düzenleyin",
-      "detail": "Cloudflare’ın yeni politikalarına uygun olarak, Hisar Hospital’ın dijital içeriklerinin AI tarafından kullanımını kontrol altına alın ve yayıncı haklarını koruyun."
+      "title": "Cloudflare Politikası Kapsamında Web İçerik Koruma Önlemleri Alın",
+      "detail": "Cloudflare'ın yeni politikası nedeniyle Hisar Hospital web sitesi için AI tabanlı içerik kullanım ve koruma stratejileri gözden geçirilmeli, gerekli teknik önlemler alınmalıdır."
     }
   ],
   "sources": [
