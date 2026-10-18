@@ -1,21 +1,119 @@
 {
-  "date": "2026-10-17",
-  "generatedAt": "2026-10-17T08:48:18.818Z",
+  "date": "2026-10-18",
+  "generatedAt": "2026-10-18T09:04:48.911Z",
   "readingTime": "6 dk okuma",
   "hero": {
-    "title": "Meta&#8217;s New Terms Expand Crawling Rights Beyond Advertisers via @sejournal, @MattGSouthern",
-    "summary": "New terms let Meta crawl sites tied to business users and use the content to train its products, widening rights ad buyers had already granted. The post Meta&#8217;s New Terms Expand Crawling Rights Beyond Advertisers appeared first on Search Engine Journal .",
+    "title": "OpenAI&#8217;s API Only Partly Matched ChatGPT&#8217;s Citations, Paper Finds via @sejournal, @MattGSouthern",
+    "summary": "A paper tested whether Google results and OpenAI's API can stand in for ChatGPT's citations. They matched cited sites more often than the exact pages. The post OpenAI&#8217;s API Only Partly Matched ChatGPT&#8217;s Citations, Paper Finds appeared first on Search Engine Journal .",
     "body": [
-      "New terms let Meta crawl sites tied to business users and use the content to train its products, widening rights ad buyers had already granted. The post Meta&#8217;s New Terms Expand Crawling Rights Beyond Advertisers appeared first on Search Engine Journal .",
+      "A paper tested whether Google results and OpenAI's API can stand in for ChatGPT's citations. They matched cited sites more often than the exact pages. The post OpenAI&#8217;s API Only Partly Matched ChatGPT&#8217;s Citations, Paper Finds appeared first on Search Engine Journal .",
       "Hisar Hospital tarafında bu gelişme içerik kalitesi, arama görünürlüğü, landing page dönüşümü ve operasyonel otomasyon başlıklarında değerlendirilebilir."
     ],
     "category": "SEO / GEO",
     "sourceName": "Search Engine Journal",
-    "url": "https://www.searchenginejournal.com/metas-new-terms-expand-crawling-rights-beyond-advertisers/593217/",
-    "publishedAt": "2026-10-16T21:38:49.000Z",
-    "slug": "meta-8217-s-new-terms-expand-crawling-rights-beyond-advertisers-via-sejournal-mattgsouther"
+    "url": "https://www.searchenginejournal.com/openais-api-only-partly-matched-chatgpts-citations-paper-finds/593304/",
+    "publishedAt": "2026-10-18T08:00:00.000Z",
+    "slug": "openai-8217-s-api-only-partly-matched-chatgpt-8217-s-citations-paper-finds-via-sejournal-m"
   },
   "articles": [
+    {
+      "title": "OpenAI&#8217;s API Only Partly Matched ChatGPT&#8217;s Citations, Paper Finds via @sejournal, @MattGSouthern",
+      "summary": "A paper tested whether Google results and OpenAI's API can stand in for ChatGPT's citations. They matched cited sites more often than the exact pages. The post OpenAI&#8217;s API Only Partly Matched ChatGPT&#8217;s Citations, Paper Finds appeared first on Search Engine Journal .",
+      "body": [
+        "A paper tested whether Google results and OpenAI's API can stand in for ChatGPT's citations. They matched cited sites more often than the exact pages. The post OpenAI&#8217;s API Only Partly Matched ChatGPT&#8217;s Citations, Paper Finds appeared first on Search Engine Journal .",
+        "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
+      ],
+      "category": "SEO / GEO",
+      "sourceName": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/openais-api-only-partly-matched-chatgpts-citations-paper-finds/593304/",
+      "publishedAt": "2026-10-18T08:00:00.000Z",
+      "readingTime": "3 dk",
+      "slug": "openai-8217-s-api-only-partly-matched-chatgpt-8217-s-citations-paper-finds-via-sejournal-m"
+    },
+    {
+      "title": "Rank Tracker Data, ChatGPT Tags &#038; AI Search Links – SEO Pulse via @sejournal, @MattGSouthern",
+      "summary": "A rank tracker logged Google pages missing their usual sites, some ChatGPT links lost tracking tags, and Google and Bing changed AI search links. The post Rank Tracker Data, ChatGPT Tags &#038; AI Search Links – SEO Pulse appeared first on Search Engine Journal .",
+      "body": [
+        "A rank tracker logged Google pages missing their usual sites, some ChatGPT links lost tracking tags, and Google and Bing changed AI search links. The post Rank Tracker Data, ChatGPT Tags &#038; AI Search Links – SEO Pulse appeared first on Search Engine Journal .",
+        "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
+      ],
+      "category": "SEO / GEO",
+      "sourceName": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/seo-pulse-rank-tracker-data-chatgpt-tags-ai-search-links/593171/",
+      "publishedAt": "2026-10-17T12:00:00.000Z",
+      "readingTime": "3 dk",
+      "slug": "rank-tracker-data-chatgpt-tags-038-ai-search-links-seo-pulse-via-sejournal-mattgsouthern"
+    },
+    {
+      "title": "Google&#8217;s Indexing API Docs No Longer Explain How To Get Approval via @sejournal, @MattGSouthern",
+      "summary": "Google removed the Indexing API approval form and steps from its docs. Default quotas are listed, but the pages don't say how to request more. The post Google&#8217;s Indexing API Docs No Longer Explain How To Get Approval appeared first on Search Engine Journal .",
+      "body": [
+        "Google removed the Indexing API approval form and steps from its docs. Default quotas are listed, but the pages don't say how to request more. The post Google&#8217;s Indexing API Docs No Longer Explain How To Get Approval appeared first on Search Engine Journal .",
+        "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
+      ],
+      "category": "SEO / GEO",
+      "sourceName": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/google-indexing-api-docs-approval-form-removed/593292/",
+      "publishedAt": "2026-10-17T18:15:44.000Z",
+      "readingTime": "3 dk",
+      "slug": "google-8217-s-indexing-api-docs-no-longer-explain-how-to-get-approval-via-sejournal-mattgs"
+    },
+    {
+      "title": "Websites are closing their doors to AI agents",
+      "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks, [&#8230;]",
+      "body": [
+        "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks, [&#8230;]",
+        "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
+      ],
+      "category": "AI",
+      "sourceName": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "publishedAt": "2026-10-17T13:00:00.000Z",
+      "readingTime": "3 dk",
+      "slug": "websites-are-closing-their-doors-to-ai-agents"
+    },
+    {
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "body": [
+        "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+        "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
+      ],
+      "category": "AI",
+      "sourceName": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "publishedAt": "2026-10-17T21:31:32.000Z",
+      "readingTime": "3 dk",
+      "slug": "meta-removes-language-that-raised-scraping-and-ai-training-concerns"
+    },
+    {
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "body": [
+        "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+        "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
+      ],
+      "category": "AI",
+      "sourceName": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "publishedAt": "2026-10-17T18:48:08.000Z",
+      "readingTime": "3 dk",
+      "slug": "replit-makes-openai-its-default-over-anthropic-ceo-says"
+    },
+    {
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, [&",
+      "body": [
+        "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, [&",
+        "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
+      ],
+      "category": "AI",
+      "sourceName": "The Verge AI",
+      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "publishedAt": "2026-10-17T15:04:36.000Z",
+      "readingTime": "3 dk",
+      "slug": "meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites"
+    },
     {
       "title": "Meta&#8217;s New Terms Expand Crawling Rights Beyond Advertisers via @sejournal, @MattGSouthern",
       "summary": "New terms let Meta crawl sites tied to business users and use the content to train its products, widening rights ad buyers had already granted. The post Meta&#8217;s New Terms Expand Crawling Rights Beyond Advertisers appeared first on Search Engine Journal .",
@@ -31,123 +129,25 @@
       "slug": "meta-8217-s-new-terms-expand-crawling-rights-beyond-advertisers-via-sejournal-mattgsouther"
     },
     {
-      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to those who believe that robotics, powered by",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
       "body": [
-        "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to those who believe that robotics, powered by",
+        "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
         "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
       ],
       "category": "AI",
       "sourceName": "TechCrunch AI",
-      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-      "publishedAt": "2026-10-16T16:30:00.000Z",
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "publishedAt": "2026-10-17T20:21:19.000Z",
       "readingTime": "3 dk",
-      "slug": "physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it"
-    },
-    {
-      "title": "Google Puts Inline Links Higher In More AI Search Responses via @sejournal, @MattGSouthern",
-      "summary": "Google is changing how links appear in AI Mode and AI Overviews, moving inline links higher and expanding the carousels that highlight Preferred Sources. The post Google Puts Inline Links Higher In More AI Search Responses appeared first on Search Engine Journal .",
-      "body": [
-        "Google is changing how links appear in AI Mode and AI Overviews, moving inline links higher and expanding the carousels that highlight Preferred Sources. The post Google Puts Inline Links Higher In More AI Search Responses appeared first on Search Engine Journal .",
-        "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
-      ],
-      "category": "SEO / GEO",
-      "sourceName": "Search Engine Journal",
-      "url": "https://www.searchenginejournal.com/google-inline-links-higher-ai-search-responses/593089/",
-      "publishedAt": "2026-10-15T16:00:00.000Z",
-      "readingTime": "3 dk",
-      "slug": "google-puts-inline-links-higher-in-more-ai-search-responses-via-sejournal-mattgsouthern"
-    },
-    {
-      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-      "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, AMD, and Qualcomm. It has loads of cores,",
-      "body": [
-        "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, AMD, and Qualcomm. It has loads of cores,",
-        "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
-      ],
-      "category": "AI",
-      "sourceName": "The Verge AI",
-      "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
-      "publishedAt": "2026-10-16T15:00:00.000Z",
-      "readingTime": "3 dk",
-      "slug": "a-week-with-rtx-spark-everything-we-ve-learned-using-nvidia-s-new-laptops"
-    },
-    {
-      "title": "Meta’s new terms may allow it to train AI on news sites for free",
-      "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to \"develop, improve, research,\" and \"train\" [&#",
-      "body": [
-        "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to \"develop, improve, research,\" and \"train\" [&#",
-        "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
-      ],
-      "category": "AI",
-      "sourceName": "The Verge AI",
-      "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-      "publishedAt": "2026-10-16T14:02:40.000Z",
-      "readingTime": "3 dk",
-      "slug": "meta-s-new-terms-may-allow-it-to-train-ai-on-news-sites-for-free"
-    },
-    {
-      "title": "It&#8217;s Possible Your Migration Issues May Be Due To Site Quality via @sejournal, @marie_haynes",
-      "summary": "If your new domain won’t index and there’s no technical fix, the problem may be originality. Read Marie Haynes’ theory and what to do next. The post It&#8217;s Possible Your Migration Issues May Be Due To Site Quality appeared first on Search Engine Journal .",
-      "body": [
-        "If your new domain won’t index and there’s no technical fix, the problem may be originality. Read Marie Haynes’ theory and what to do next. The post It&#8217;s Possible Your Migration Issues May Be Due To Site Quality appeared first on Search Engine Journal .",
-        "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
-      ],
-      "category": "SEO / GEO",
-      "sourceName": "Search Engine Journal",
-      "url": "https://www.searchenginejournal.com/its-possible-your-migration-issues-may-be-due-to-site-quality/592899/",
-      "publishedAt": "2026-10-16T14:00:20.000Z",
-      "readingTime": "3 dk",
-      "slug": "it-8217-s-possible-your-migration-issues-may-be-due-to-site-quality-via-sejournal-marie-ha"
-    },
-    {
-      "title": "OpenAI, ChatGPT'ye Chrome sekmelerini kontrol etme özelliği ekledi",
-      "summary": "OpenAI, ChatGPT'nin Google Chrome uzantısını yeni özelliklerle güncelledi. Güncellemeyle birlikte ChatGPT, kullanıcıların açık Chrome sekmelerini görebiliyor, sekmelerdeki bilgileri yanıtlarına dahil ...",
-      "body": [
-        "OpenAI, ChatGPT'nin Google Chrome uzantısını yeni özelliklerle güncelledi. Güncellemeyle birlikte ChatGPT, kullanıcıların açık Chrome sekmelerini görebiliyor, sekmelerdeki bilgileri yanıtlarına dahil ...",
-        "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
-      ],
-      "category": "Dijital Pazarlama",
-      "sourceName": "Webrazzi",
-      "url": "https://webrazzi.com/2026/10/16/openai-chatgptye-chrome-sekmelerini-kontrol-etme-ozelligi-ekledi/",
-      "publishedAt": "2026-10-16T12:00:00.000Z",
-      "readingTime": "3 dk",
-      "slug": "openai-chatgpt-ye-chrome-sekmelerini-kontrol-etme-ozelligi-ekledi"
-    },
-    {
-      "title": "Google Takes Applications For A UGC Pipeline Separate From Crawling via @sejournal, @MattGSouthern",
-      "summary": "Google is accepting applications from forums and social platforms for a UGC pipeline separate from crawling. The post Google Takes Applications For A UGC Pipeline Separate From Crawling appeared first on Search Engine Journal .",
-      "body": [
-        "Google is accepting applications from forums and social platforms for a UGC pipeline separate from crawling. The post Google Takes Applications For A UGC Pipeline Separate From Crawling appeared first on Search Engine Journal .",
-        "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
-      ],
-      "category": "SEO / GEO",
-      "sourceName": "Search Engine Journal",
-      "url": "https://www.searchenginejournal.com/google-ugc-fresh-data-program-applications/593113/",
-      "publishedAt": "2026-10-16T12:00:00.000Z",
-      "readingTime": "3 dk",
-      "slug": "google-takes-applications-for-a-ugc-pipeline-separate-from-crawling-via-sejournal-mattgsou"
-    },
-    {
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
-      "body": [
-        "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
-        "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
-      ],
-      "category": "AI",
-      "sourceName": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "publishedAt": "2026-10-16T21:22:28.000Z",
-      "readingTime": "3 dk",
-      "slug": "replit-is-no-longer-working-with-anthropic-ceo-says"
+      "slug": "anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings"
     }
   ],
   "highlights": [
-    "SEO / GEO: Meta&#8217;s New Terms Expand Crawling Rights Beyond Advertisers via @sejournal, @MattGSouthern",
-    "AI: Physical AI is more than robots, says the Nvidia veteran now investing in it",
-    "SEO / GEO: Google Puts Inline Links Higher In More AI Search Responses via @sejournal, @MattGSouthern",
-    "AI: A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops"
+    "SEO / GEO: OpenAI&#8217;s API Only Partly Matched ChatGPT&#8217;s Citations, Paper Finds via @sejournal, @MattGSouthern",
+    "SEO / GEO: Rank Tracker Data, ChatGPT Tags &#038; AI Search Links – SEO Pulse via @sejournal, @MattGSouthern",
+    "SEO / GEO: Google&#8217;s Indexing API Docs No Longer Explain How To Get Approval via @sejournal, @MattGSouthern",
+    "AI: Websites are closing their doors to AI agents"
   ],
   "quickNotes": [
     "AI arama deneyimleri SEO ve içerik stratejisini doğrudan etkiliyor.",
