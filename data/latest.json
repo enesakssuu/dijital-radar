@@ -1,21 +1,77 @@
 {
-  "date": "2026-10-25",
-  "generatedAt": "2026-10-25T09:24:34.933Z",
+  "date": "2026-10-26",
+  "generatedAt": "2026-10-26T10:31:05.846Z",
   "readingTime": "6 dk okuma",
   "hero": {
-    "title": "Google Explains 503s, Robots.txt Limits &#038; Bracket URLs – SEO Pulse via @sejournal, @MattGSouthern",
-    "summary": "Google reminds sites to use 503s during PHP patch downtime. Other updates cover robots.txt controls, bracket URLs, and JPEG XL in Google Images and Discover. The post Google Explains 503s, Robots.txt Limits &#038; Bracket URLs – SEO Pulse appeared first on Search Engine Journal .",
+    "title": "Tactical Solutions For The Biggest AI Search Measurement Challenges via @sejournal, @lorenbaker",
+    "summary": "Measure AI search beyond clicks with STAT’s Tom Capper: track brand presence, investigate citations, and improve your attribution story. The post Tactical Solutions For The Biggest AI Search Measurement Challenges appeared first on Search Engine Journal .",
     "body": [
-      "Google reminds sites to use 503s during PHP patch downtime. Other updates cover robots.txt controls, bracket URLs, and JPEG XL in Google Images and Discover. The post Google Explains 503s, Robots.txt Limits &#038; Bracket URLs – SEO Pulse appeared first on Search Engine Journal .",
+      "Measure AI search beyond clicks with STAT’s Tom Capper: track brand presence, investigate citations, and improve your attribution story. The post Tactical Solutions For The Biggest AI Search Measurement Challenges appeared first on Search Engine Journal .",
       "Hisar Hospital tarafında bu gelişme içerik kalitesi, arama görünürlüğü, landing page dönüşümü ve operasyonel otomasyon başlıklarında değerlendirilebilir."
     ],
     "category": "SEO / GEO",
     "sourceName": "Search Engine Journal",
-    "url": "https://www.searchenginejournal.com/seo-pulse-google-explains-503s-robots-txt-limits-bracket-urls/594085/",
-    "publishedAt": "2026-10-24T12:00:00.000Z",
-    "slug": "google-explains-503s-robots-txt-limits-038-bracket-urls-seo-pulse-via-sejournal-mattgsouth"
+    "url": "https://www.searchenginejournal.com/tactical-solutions-for-the-biggest-ai-search-measurement-challenges-recap/593023/",
+    "publishedAt": "2026-10-26T07:45:18.000Z",
+    "slug": "tactical-solutions-for-the-biggest-ai-search-measurement-challenges-via-sejournal-lorenbak"
   },
   "articles": [
+    {
+      "title": "Tactical Solutions For The Biggest AI Search Measurement Challenges via @sejournal, @lorenbaker",
+      "summary": "Measure AI search beyond clicks with STAT’s Tom Capper: track brand presence, investigate citations, and improve your attribution story. The post Tactical Solutions For The Biggest AI Search Measurement Challenges appeared first on Search Engine Journal .",
+      "body": [
+        "Measure AI search beyond clicks with STAT’s Tom Capper: track brand presence, investigate citations, and improve your attribution story. The post Tactical Solutions For The Biggest AI Search Measurement Challenges appeared first on Search Engine Journal .",
+        "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
+      ],
+      "category": "SEO / GEO",
+      "sourceName": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/tactical-solutions-for-the-biggest-ai-search-measurement-challenges-recap/593023/",
+      "publishedAt": "2026-10-26T07:45:18.000Z",
+      "readingTime": "3 dk",
+      "slug": "tactical-solutions-for-the-biggest-ai-search-measurement-challenges-via-sejournal-lorenbak"
+    },
+    {
+      "title": "Google’s AI search changes upended online publishing",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industry has relied on [&#8230;]",
+      "body": [
+        "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industry has relied on [&#8230;]",
+        "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
+      ],
+      "category": "AI",
+      "sourceName": "The Verge AI",
+      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+      "publishedAt": "2026-10-25T12:00:00.000Z",
+      "readingTime": "3 dk",
+      "slug": "google-s-ai-search-changes-upended-online-publishing"
+    },
+    {
+      "title": "Moonshot AI, kodlama ve 3D modelleme yeteneklerini geliştirdiği Kimi K3.1 Pro’yu tanıttı",
+      "summary": "Çin merkezli yapay zeka şirketi Moonshot AI, Kimi model ailesinin yeni üyesi Kimi K3.1 Pro’yu kullanıma sundu. Yeni model ve daha hızlı çalışan Highspeed sürümü, Kimi’nin ürünleri ve API’ı üzerinden e...",
+      "body": [
+        "Çin merkezli yapay zeka şirketi Moonshot AI, Kimi model ailesinin yeni üyesi Kimi K3.1 Pro’yu kullanıma sundu. Yeni model ve daha hızlı çalışan Highspeed sürümü, Kimi’nin ürünleri ve API’ı üzerinden e...",
+        "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
+      ],
+      "category": "Dijital Pazarlama",
+      "sourceName": "Webrazzi",
+      "url": "https://webrazzi.com/2026/10/26/moonshot-ai-kodlama-ve-3d-modelleme-yeteneklerini-gelistirdigi-kimi-k31-proyu-tanitti/",
+      "publishedAt": "2026-10-26T07:00:00.000Z",
+      "readingTime": "3 dk",
+      "slug": "moonshot-ai-kodlama-ve-3d-modelleme-yeteneklerini-gelistirdigi-kimi-k3-1-pro-yu-tanitti"
+    },
+    {
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+      "body": [
+        "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+        "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
+      ],
+      "category": "AI",
+      "sourceName": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "publishedAt": "2026-10-25T16:57:32.000Z",
+      "readingTime": "3 dk",
+      "slug": "ai-delivers-zero-financial-payoff-to-most-companies-apollo-economist-says"
+    },
     {
       "title": "Google Explains 503s, Robots.txt Limits &#038; Bracket URLs – SEO Pulse via @sejournal, @MattGSouthern",
       "summary": "Google reminds sites to use 503s during PHP patch downtime. Other updates cover robots.txt controls, bracket URLs, and JPEG XL in Google Images and Discover. The post Google Explains 503s, Robots.txt Limits &#038; Bracket URLs – SEO Pulse appeared first on Search Engine Journal .",
@@ -31,123 +87,67 @@
       "slug": "google-explains-503s-robots-txt-limits-038-bracket-urls-seo-pulse-via-sejournal-mattgsouth"
     },
     {
-      "title": "Pennsylvania will require labels on AI-generated ads",
-      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by artificial intelligence\" to include a label in",
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
       "body": [
-        "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by artificial intelligence\" to include a label in",
-        "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
-      ],
-      "category": "AI",
-      "sourceName": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-      "publishedAt": "2026-10-24T18:32:21.000Z",
-      "readingTime": "3 dk",
-      "slug": "pennsylvania-will-require-labels-on-ai-generated-ads"
-    },
-    {
-      "title": "Blue Planet III is keeping the rough edges in the age of AI",
-      "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue [&#8",
-      "body": [
-        "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue [&#8",
-        "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
-      ],
-      "category": "AI",
-      "sourceName": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-      "publishedAt": "2026-10-24T21:29:12.000Z",
-      "readingTime": "3 dk",
-      "slug": "blue-planet-iii-is-keeping-the-rough-edges-in-the-age-of-ai"
-    },
-    {
-      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-      "summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous [&#823",
-      "body": [
-        "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous [&#823",
-        "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
-      ],
-      "category": "AI",
-      "sourceName": "The Verge AI",
-      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-      "publishedAt": "2026-10-23T16:52:55.000Z",
-      "readingTime": "3 dk",
-      "slug": "now-google-says-it-might-use-your-gmail-and-google-photos-data-to-target-ads"
-    },
-    {
-      "title": "Here are the top AI agents that can live in your text messages",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "body": [
-        "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+        "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
         "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
       ],
       "category": "AI",
       "sourceName": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "publishedAt": "2026-10-24T14:00:00.000Z",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "publishedAt": "2026-10-25T21:31:16.000Z",
       "readingTime": "3 dk",
-      "slug": "here-are-the-top-ai-agents-that-can-live-in-your-text-messages"
+      "slug": "grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey"
     },
     {
-      "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "title": "Microsoft, hukukçulara yönelik 20'den fazla yeni Copilot özelliğini kullanıma sundu",
+      "summary": "Microsoft, hukukçuların sözleşme hazırlama, belge inceleme ve dava süreçlerini takip etme gibi işlerini kolaylaştırmak için Copilot’a 20’den fazla yeni özellik ekledi. Genel kullanıma sunulan özellikl...",
       "body": [
-        "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+        "Microsoft, hukukçuların sözleşme hazırlama, belge inceleme ve dava süreçlerini takip etme gibi işlerini kolaylaştırmak için Copilot’a 20’den fazla yeni özellik ekledi. Genel kullanıma sunulan özellikl...",
         "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
       ],
-      "category": "AI",
-      "sourceName": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "publishedAt": "2026-10-24T19:00:00.000Z",
+      "category": "Dijital Pazarlama",
+      "sourceName": "Webrazzi",
+      "url": "https://webrazzi.com/2026/10/26/microsoft-hukukculara-yonelik-20-den-fazla-yeni-copilot-ozelligini-kullanima-sundu/",
+      "publishedAt": "2026-10-26T10:00:00.000Z",
       "readingTime": "3 dk",
-      "slug": "the-ai-graveyard-a-running-list-of-projects-and-startups-that-didn-8217-t-make-it"
+      "slug": "microsoft-hukukculara-yonelik-20-den-fazla-yeni-copilot-ozelligini-kullanima-sundu"
     },
     {
-      "title": "UX Disciplines: Glossary",
-      "summary": "Definitions of fields related to user experience, including UX design, UI design, visual design, interaction design, service design, UX research, and DesignOps",
+      "title": "Grok, yapay zekayla hazırlanan The Odyssey uyarlamasının ilk bölümünü yayınladı",
+      "summary": "Grok Imagine, Homeros’un Odysseia destanından uyarlanan yapay zeka yapımının ilk bölümünü yayınladı. 23 Ekim’de X üzerinden paylaşılan yaklaşık 7 dakikalık video, “Odyssey serisinin ilk bölümü” olarak...",
       "body": [
-        "Definitions of fields related to user experience, including UX design, UI design, visual design, interaction design, service design, UX research, and DesignOps",
+        "Grok Imagine, Homeros’un Odysseia destanından uyarlanan yapay zeka yapımının ilk bölümünü yayınladı. 23 Ekim’de X üzerinden paylaşılan yaklaşık 7 dakikalık video, “Odyssey serisinin ilk bölümü” olarak...",
         "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
       ],
-      "category": "Web Tasarım",
-      "sourceName": "Nielsen Norman Group",
-      "url": "https://www.nngroup.com/articles/ux-disciplines-glossary/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "publishedAt": "2026-10-23T17:00:00.000Z",
+      "category": "Dijital Pazarlama",
+      "sourceName": "Webrazzi",
+      "url": "https://webrazzi.com/2026/10/26/grok-yapay-zekayla-hazirlanan-the-odyssey-uyarlamasinin-ilk-bolumunu-yayinladi/",
+      "publishedAt": "2026-10-26T09:30:00.000Z",
       "readingTime": "3 dk",
-      "slug": "ux-disciplines-glossary"
+      "slug": "grok-yapay-zekayla-hazirlanan-the-odyssey-uyarlamasinin-ilk-bolumunu-yayinladi"
     },
     {
-      "title": "Block&#8217;s new voice model sounds eerily human",
-      "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+      "title": "Webrazzi Fintech 2026'nın erken kayıt indirimli biletleri için son 2 gün!",
+      "summary": "Türkiye'nin lider fintech konferansı Webrazzi Fintech, 9 Aralık 2026’da, Wyndham Grand İstanbul Levent'te gerçekleşecek. Webrazzi'nin 20. yılında düzenlenecek konferans, finans sektörünü yeniden şekil...",
       "body": [
-        "Block said that the voice model can run locally on a MacBook M4 Max",
+        "Türkiye'nin lider fintech konferansı Webrazzi Fintech, 9 Aralık 2026’da, Wyndham Grand İstanbul Levent'te gerçekleşecek. Webrazzi'nin 20. yılında düzenlenecek konferans, finans sektörünü yeniden şekil...",
         "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
       ],
-      "category": "AI",
-      "sourceName": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-      "publishedAt": "2026-10-24T16:00:00.000Z",
+      "category": "Dijital Pazarlama",
+      "sourceName": "Webrazzi",
+      "url": "https://webrazzi.com/2026/10/26/webrazzi-fintech-2026nin-erken-kayit-indirimli-biletleri-icin-son-2-gun/",
+      "publishedAt": "2026-10-26T08:00:00.000Z",
       "readingTime": "3 dk",
-      "slug": "block-8217-s-new-voice-model-sounds-eerily-human"
-    },
-    {
-      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
-      "body": [
-        "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
-        "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
-      ],
-      "category": "AI",
-      "sourceName": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "publishedAt": "2026-10-24T15:00:00.000Z",
-      "readingTime": "3 dk",
-      "slug": "forced-to-pick-grok-s-ai-model-chooses-republicans-openai-s-picks-democrats"
+      "slug": "webrazzi-fintech-2026-nin-erken-kayit-indirimli-biletleri-icin-son-2-gun"
     }
   ],
   "highlights": [
-    "SEO / GEO: Google Explains 503s, Robots.txt Limits &#038; Bracket URLs – SEO Pulse via @sejournal, @MattGSouthern",
-    "AI: Pennsylvania will require labels on AI-generated ads",
-    "AI: Blue Planet III is keeping the rough edges in the age of AI",
-    "AI: Now Google says it might use your Gmail and Google Photos data to target ads"
+    "SEO / GEO: Tactical Solutions For The Biggest AI Search Measurement Challenges via @sejournal, @lorenbaker",
+    "AI: Google’s AI search changes upended online publishing",
+    "Dijital Pazarlama: Moonshot AI, kodlama ve 3D modelleme yeteneklerini geliştirdiği Kimi K3.1 Pro’yu tanıttı",
+    "AI: AI delivers ‘zero financial payoff’ to most companies, Apollo economist says"
   ],
   "quickNotes": [
     "AI arama deneyimleri SEO ve içerik stratejisini doğrudan etkiliyor.",
