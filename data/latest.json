@@ -1,153 +1,153 @@
 {
-  "date": "2026-11-02",
-  "generatedAt": "2026-11-02T12:52:19.496Z",
+  "date": "2026-11-03",
+  "generatedAt": "2026-11-03T12:21:26.757Z",
   "readingTime": "6 dk okuma",
   "hero": {
-    "title": "Google Says Technical SEO Remains Key For AI SEO via @sejournal, @martinibuster",
-    "summary": "Google's John Mueller cautioned against relying on short-term AI SEO tactics and explained why traditional technical SEO remains relevant. The post Google Says Technical SEO Remains Key For AI SEO appeared first on Search Engine Journal .",
+    "title": "Google Says It&#8217;s Okay To Block Some JavaScript Resources With Robots.txt via @sejournal, @martinibuster",
+    "summary": "Google's John Mueller said it's okay, within a specific use case, to use robots.txt to hide resources from Googlebot. The post Google Says It&#8217;s Okay To Block Some JavaScript Resources With Robots.txt appeared first on Search Engine Journal .",
     "body": [
-      "Google's John Mueller cautioned against relying on short-term AI SEO tactics and explained why traditional technical SEO remains relevant. The post Google Says Technical SEO Remains Key For AI SEO appeared first on Search Engine Journal .",
+      "Google's John Mueller said it's okay, within a specific use case, to use robots.txt to hide resources from Googlebot. The post Google Says It&#8217;s Okay To Block Some JavaScript Resources With Robots.txt appeared first on Search Engine Journal .",
       "Hisar Hospital tarafında bu gelişme içerik kalitesi, arama görünürlüğü, landing page dönüşümü ve operasyonel otomasyon başlıklarında değerlendirilebilir."
     ],
     "category": "SEO / GEO",
     "sourceName": "Search Engine Journal",
-    "url": "https://www.searchenginejournal.com/google-says-technical-seo-remains-key-for-ai-seo/595550/",
-    "publishedAt": "2026-11-02T10:55:11.000Z",
-    "slug": "google-says-technical-seo-remains-key-for-ai-seo-via-sejournal-martinibuster"
+    "url": "https://www.searchenginejournal.com/google-says-its-okay-to-block-some-javascript-resources-with-robots-txt/595736/",
+    "publishedAt": "2026-11-03T11:16:50.000Z",
+    "slug": "google-says-it-8217-s-okay-to-block-some-javascript-resources-with-robots-txt-via-sejourna"
   },
   "articles": [
     {
-      "title": "Google Says Technical SEO Remains Key For AI SEO via @sejournal, @martinibuster",
-      "summary": "Google's John Mueller cautioned against relying on short-term AI SEO tactics and explained why traditional technical SEO remains relevant. The post Google Says Technical SEO Remains Key For AI SEO appeared first on Search Engine Journal .",
+      "title": "Google Says It&#8217;s Okay To Block Some JavaScript Resources With Robots.txt via @sejournal, @martinibuster",
+      "summary": "Google's John Mueller said it's okay, within a specific use case, to use robots.txt to hide resources from Googlebot. The post Google Says It&#8217;s Okay To Block Some JavaScript Resources With Robots.txt appeared first on Search Engine Journal .",
       "body": [
-        "Google's John Mueller cautioned against relying on short-term AI SEO tactics and explained why traditional technical SEO remains relevant. The post Google Says Technical SEO Remains Key For AI SEO appeared first on Search Engine Journal .",
+        "Google's John Mueller said it's okay, within a specific use case, to use robots.txt to hide resources from Googlebot. The post Google Says It&#8217;s Okay To Block Some JavaScript Resources With Robots.txt appeared first on Search Engine Journal .",
         "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
       ],
       "category": "SEO / GEO",
       "sourceName": "Search Engine Journal",
-      "url": "https://www.searchenginejournal.com/google-says-technical-seo-remains-key-for-ai-seo/595550/",
-      "publishedAt": "2026-11-02T10:55:11.000Z",
+      "url": "https://www.searchenginejournal.com/google-says-its-okay-to-block-some-javascript-resources-with-robots-txt/595736/",
+      "publishedAt": "2026-11-03T11:16:50.000Z",
       "readingTime": "3 dk",
-      "slug": "google-says-technical-seo-remains-key-for-ai-seo-via-sejournal-martinibuster"
+      "slug": "google-says-it-8217-s-okay-to-block-some-javascript-resources-with-robots-txt-via-sejourna"
     },
     {
-      "title": "OpenAI, yeni yatırım turundaki hedefini 20 milyar dolara düşürdü",
-      "summary": "OpenAI'ın devam eden yatırım turunda beklentilerini aşağı yönlü revize ettiği ortaya çıktı. Financial Times'ın konuya yakın kaynaklara dayandırdığı bilgilere göre şirket, daha önce 30 milyar dolar ola...",
+      "title": "Google Lighthouse Update Changes How PageSpeed Insights Simulates Loading via @sejournal, @MattGSouthern",
+      "summary": "A Google Lighthouse update changes how PageSpeed Insights simulates page loads, which can raise lab scores on pages that haven't changed. The post Google Lighthouse Update Changes How PageSpeed Insights Simulates Loading appeared first on Search Engine Journal .",
       "body": [
-        "OpenAI'ın devam eden yatırım turunda beklentilerini aşağı yönlü revize ettiği ortaya çıktı. Financial Times'ın konuya yakın kaynaklara dayandırdığı bilgilere göre şirket, daha önce 30 milyar dolar ola...",
-        "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
-      ],
-      "category": "Dijital Pazarlama",
-      "sourceName": "Webrazzi",
-      "url": "https://webrazzi.com/2026/11/02/openai-yeni-yatirim-turundaki-hedefini-20-milyar-dolara-dusurdu/",
-      "publishedAt": "2026-11-02T08:30:00.000Z",
-      "readingTime": "3 dk",
-      "slug": "openai-yeni-yatirim-turundaki-hedefini-20-milyar-dolara-dusurdu"
-    },
-    {
-      "title": "Google, Microsoft &#038; OpenAI Plan To Honor Shared AI Training Opt-Out via @sejournal, @MattGSouthern",
-      "summary": "A shared robots.txt line could let sites opt out of AI training with several providers at once, but companies involved are handling it differently. The post Google, Microsoft &#038; OpenAI Plan To Honor Shared AI Training Opt-Out appeared first on Search Engine Journal .",
-      "body": [
-        "A shared robots.txt line could let sites opt out of AI training with several providers at once, but companies involved are handling it differently. The post Google, Microsoft &#038; OpenAI Plan To Honor Shared AI Training Opt-Out appeared first on Search Engine Journal .",
+        "A Google Lighthouse update changes how PageSpeed Insights simulates page loads, which can raise lab scores on pages that haven't changed. The post Google Lighthouse Update Changes How PageSpeed Insights Simulates Loading appeared first on Search Engine Journal .",
         "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
       ],
       "category": "SEO / GEO",
       "sourceName": "Search Engine Journal",
-      "url": "https://www.searchenginejournal.com/google-microsoft-openai-shared-ai-training-opt-out/595387/",
-      "publishedAt": "2026-11-01T08:00:00.000Z",
+      "url": "https://www.searchenginejournal.com/pagespeed-insights-scores-lighthouse-update/595698/",
+      "publishedAt": "2026-11-02T21:52:57.000Z",
       "readingTime": "3 dk",
-      "slug": "google-microsoft-038-openai-plan-to-honor-shared-ai-training-opt-out-via-sejournal-mattgso"
+      "slug": "google-lighthouse-update-changes-how-pagespeed-insights-simulates-loading-via-sejournal-ma"
     },
     {
-      "title": "Spam Guide Update, Restaurant Controls &#038; AI Mode Revenue – SEO Pulse via @sejournal, @MattGSouthern",
-      "summary": "Google's spam guide adds indexing advice for pages made for sharing. Other updates cover restaurant ordering controls, report dates and AI Mode revenue. The post Spam Guide Update, Restaurant Controls &#038; AI Mode Revenue – SEO Pulse appeared first on Search Engine Journal .",
+      "title": "AI Shopping: Get Your Products Found In Google &#038; ChatGPT via @sejournal, @hethr_campbell",
+      "summary": "Chris Sachs & Aris Vrakas outlined 4 moves for AI shopping: make product pages retrievable, use shopper language, connect feeds with pages, test the results. The post AI Shopping: Get Your Products Found In Google &#038; ChatGPT appeared first on Search Engine Journal .",
       "body": [
-        "Google's spam guide adds indexing advice for pages made for sharing. Other updates cover restaurant ordering controls, report dates and AI Mode revenue. The post Spam Guide Update, Restaurant Controls &#038; AI Mode Revenue – SEO Pulse appeared first on Search Engine Journal .",
+        "Chris Sachs & Aris Vrakas outlined 4 moves for AI shopping: make product pages retrievable, use shopper language, connect feeds with pages, test the results. The post AI Shopping: Get Your Products Found In Google &#038; ChatGPT appeared first on Search Engine Journal .",
         "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
       ],
       "category": "SEO / GEO",
       "sourceName": "Search Engine Journal",
-      "url": "https://www.searchenginejournal.com/seo-pulse-spam-guide-restaurant-controls-ai-mode-revenue/595031/",
-      "publishedAt": "2026-10-31T12:00:00.000Z",
+      "url": "https://www.searchenginejournal.com/ai-shopping-get-your-products-found-in-google-chatgpt-recap/594889/",
+      "publishedAt": "2026-11-02T20:41:45.000Z",
       "readingTime": "3 dk",
-      "slug": "spam-guide-update-restaurant-controls-038-ai-mode-revenue-seo-pulse-via-sejournal-mattgsou"
+      "slug": "ai-shopping-get-your-products-found-in-google-038-chatgpt-via-sejournal-hethr-campbell"
     },
     {
-      "title": "Salesforce, savunma teknolojileri girişimi Rune Technologies'i 375 milyon dolara satın alıyor",
-      "summary": "Salesforce, yapay zeka destekli lojistik yazılımları geliştiren savunma teknolojileri girişimi Rune Technologies'i satın almak üzere anlaşmaya vardı. Anlaşma, 375 milyon dolar nakit ve hisse karşılığı...",
+      "title": "Google Says No AI Click Reporting News Yet, Ahead Of UK Deadline via @sejournal, @MattGSouthern",
+      "summary": "Google says it has nothing to announce on adding more AI search data to Search Console, ahead of a UK compliance date. The post Google Says No AI Click Reporting News Yet, Ahead Of UK Deadline appeared first on Search Engine Journal .",
       "body": [
-        "Salesforce, yapay zeka destekli lojistik yazılımları geliştiren savunma teknolojileri girişimi Rune Technologies'i satın almak üzere anlaşmaya vardı. Anlaşma, 375 milyon dolar nakit ve hisse karşılığı...",
+        "Google says it has nothing to announce on adding more AI search data to Search Console, ahead of a UK compliance date. The post Google Says No AI Click Reporting News Yet, Ahead Of UK Deadline appeared first on Search Engine Journal .",
         "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
       ],
-      "category": "Dijital Pazarlama",
-      "sourceName": "Webrazzi",
-      "url": "https://webrazzi.com/2026/11/02/salesforce-savunma-teknolojileri-girisimi-runeu-375-milyon-dolara-satin-aliyor/",
-      "publishedAt": "2026-11-02T11:30:00.000Z",
+      "category": "SEO / GEO",
+      "sourceName": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/google-ai-click-reporting-uk-deadline/595663/",
+      "publishedAt": "2026-11-02T19:21:56.000Z",
       "readingTime": "3 dk",
-      "slug": "salesforce-savunma-teknolojileri-girisimi-rune-technologies-i-375-milyon-dolara-satin-aliy"
+      "slug": "google-says-no-ai-click-reporting-news-yet-ahead-of-uk-deadline-via-sejournal-mattgsouther"
     },
     {
-      "title": "Anthropic, Claude'un mevcut video oyunlarını klonlamasını engelliyor",
-      "summary": "Anthropic, yapay zeka modeli Claude'un mevcut video oyunlarını birebir yeniden oluşturmasını engellemek için yeni kısıtlamalar getirdi. Şirketin yaptığı güncellemeyle Claude, kullanıcıların belirli bi...",
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
       "body": [
-        "Anthropic, yapay zeka modeli Claude'un mevcut video oyunlarını birebir yeniden oluşturmasını engellemek için yeni kısıtlamalar getirdi. Şirketin yaptığı güncellemeyle Claude, kullanıcıların belirli bi...",
-        "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
-      ],
-      "category": "Dijital Pazarlama",
-      "sourceName": "Webrazzi",
-      "url": "https://webrazzi.com/2026/11/02/anthropic-claude-un-mevcut-video-oyunlarini-klonlamasini-engelliyor/",
-      "publishedAt": "2026-11-02T10:30:00.000Z",
-      "readingTime": "3 dk",
-      "slug": "anthropic-claude-un-mevcut-video-oyunlarini-klonlamasini-engelliyor"
-    },
-    {
-      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
-      "body": [
-        "Data centers are deeply unpopular. But what if we called them something else?",
+        "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
         "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
       ],
       "category": "AI",
       "sourceName": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-      "publishedAt": "2026-11-01T21:55:23.000Z",
+      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "publishedAt": "2026-11-03T03:30:00.000Z",
       "readingTime": "3 dk",
-      "slug": "openai-might-rebrand-its-data-centers-as-ai-compute-campuses"
+      "slug": "google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-mass"
     },
     {
-      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "title": "NY Times Accuses Brave Of Scraping And Exploiting Content via @sejournal, @martinibuster",
+      "summary": "New York Times lawsuit accuses Brave of selling access to paywalled content to AI companies and depriving publishers of ad income. The post NY Times Accuses Brave Of Scraping And Exploiting Content appeared first on Search Engine Journal .",
       "body": [
-        "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+        "New York Times lawsuit accuses Brave of selling access to paywalled content to AI companies and depriving publishers of ad income. The post NY Times Accuses Brave Of Scraping And Exploiting Content appeared first on Search Engine Journal .",
+        "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
+      ],
+      "category": "SEO / GEO",
+      "sourceName": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/ny-times-accuses-brave-of-scraping-and-exploiting-content/595679/",
+      "publishedAt": "2026-11-02T21:38:22.000Z",
+      "readingTime": "3 dk",
+      "slug": "ny-times-accuses-brave-of-scraping-and-exploiting-content-via-sejournal-martinibuster"
+    },
+    {
+      "title": "TikTok Search Ads Adds Brand And Category Keyword Packs via @sejournal, @MattGSouthern",
+      "summary": "TikTok is highlighting two impression share metrics for Search Ads and adding curated keyword packs. Here's what each does. The post TikTok Search Ads Adds Brand And Category Keyword Packs appeared first on Search Engine Journal .",
+      "body": [
+        "TikTok is highlighting two impression share metrics for Search Ads and adding curated keyword packs. Here's what each does. The post TikTok Search Ads Adds Brand And Category Keyword Packs appeared first on Search Engine Journal .",
+        "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
+      ],
+      "category": "SEO / GEO",
+      "sourceName": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/tiktok-search-ads-brand-category-keyword-packs/595682/",
+      "publishedAt": "2026-11-02T20:56:45.000Z",
+      "readingTime": "3 dk",
+      "slug": "tiktok-search-ads-adds-brand-and-category-keyword-packs-via-sejournal-mattgsouthern"
+    },
+    {
+      "title": "Apple Watch&#8217;s AI features for rewinding and recapping conversations begin beta testing",
+      "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+      "body": [
+        "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
         "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
       ],
       "category": "AI",
       "sourceName": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-      "publishedAt": "2026-11-01T20:57:58.000Z",
+      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "publishedAt": "2026-11-03T07:20:00.000Z",
       "readingTime": "3 dk",
-      "slug": "ai-can-make-tech-ceos-lives-easier-what-about-everyone-else"
+      "slug": "apple-watch-8217-s-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testin"
     },
     {
-      "title": "Binance'e 6,3 milyar dolarlık siber saldırı: Neler yaşandı?",
-      "summary": "Dünyanın en büyük kripto para borsası Binance, kripto para sektörünün bugüne kadar gördüğü en büyük siber saldırılardan biriyle karşı karşıya kaldı. 29 Ekim'de gerçekleşen saldırıda yaklaşık 6,3 milya...",
+      "title": "Grok Bot'un kullanım limitleri yüksek maliyetler nedeniyle kısıtlandı",
+      "summary": "Elon Musk, xAI'ın yapay zeka agent'ı Grok Bot'un işletme maliyetlerinin gelirine kıyasla sürdürülemez seviyeye ulaştığını açıkladı. Musk'ın açıklaması, ücretli abonelerin haftalık kullanım haklarının ...",
       "body": [
-        "Dünyanın en büyük kripto para borsası Binance, kripto para sektörünün bugüne kadar gördüğü en büyük siber saldırılardan biriyle karşı karşıya kaldı. 29 Ekim'de gerçekleşen saldırıda yaklaşık 6,3 milya...",
+        "Elon Musk, xAI'ın yapay zeka agent'ı Grok Bot'un işletme maliyetlerinin gelirine kıyasla sürdürülemez seviyeye ulaştığını açıkladı. Musk'ın açıklaması, ücretli abonelerin haftalık kullanım haklarının ...",
         "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
       ],
       "category": "Dijital Pazarlama",
       "sourceName": "Webrazzi",
-      "url": "https://webrazzi.com/2026/11/02/binance-e-6-3-milyar-dolarlik-siber-saldiri-neler-yasandi/",
-      "publishedAt": "2026-11-02T07:00:00.000Z",
+      "url": "https://webrazzi.com/2026/11/03/grok-botun-kullanim-limitleri-yuksek-maliyetler-nedeniyle-kisitlandi/",
+      "publishedAt": "2026-11-03T07:00:00.000Z",
       "readingTime": "3 dk",
-      "slug": "binance-e-6-3-milyar-dolarlik-siber-saldiri-neler-yasandi"
+      "slug": "grok-bot-un-kullanim-limitleri-yuksek-maliyetler-nedeniyle-kisitlandi"
     }
   ],
   "highlights": [
-    "SEO / GEO: Google Says Technical SEO Remains Key For AI SEO via @sejournal, @martinibuster",
-    "Dijital Pazarlama: OpenAI, yeni yatırım turundaki hedefini 20 milyar dolara düşürdü",
-    "SEO / GEO: Google, Microsoft &#038; OpenAI Plan To Honor Shared AI Training Opt-Out via @sejournal, @MattGSouthern",
-    "SEO / GEO: Spam Guide Update, Restaurant Controls &#038; AI Mode Revenue – SEO Pulse via @sejournal, @MattGSouthern"
+    "SEO / GEO: Google Says It&#8217;s Okay To Block Some JavaScript Resources With Robots.txt via @sejournal, @martinibuster",
+    "SEO / GEO: Google Lighthouse Update Changes How PageSpeed Insights Simulates Loading via @sejournal, @MattGSouthern",
+    "SEO / GEO: AI Shopping: Get Your Products Found In Google &#038; ChatGPT via @sejournal, @hethr_campbell",
+    "SEO / GEO: Google Says No AI Click Reporting News Yet, Ahead Of UK Deadline via @sejournal, @MattGSouthern"
   ],
   "quickNotes": [
     "AI arama deneyimleri SEO ve içerik stratejisini doğrudan etkiliyor.",
