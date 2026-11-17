@@ -1,21 +1,105 @@
 {
-  "date": "2026-11-16",
-  "generatedAt": "2026-11-16T13:08:54.445Z",
+  "date": "2026-11-17",
+  "generatedAt": "2026-11-17T13:51:13.980Z",
   "readingTime": "6 dk okuma",
   "hero": {
-    "title": "ChatGPT Ads Vs. Google Search Ads: What Early Data Shows via @sejournal, @MattGSouthern",
-    "summary": "Early ChatGPT Ads data shows competition for ad budgets, while performance comparisons depend on click prices, attribution and outcomes. The post ChatGPT Ads Vs. Google Search Ads: What Early Data Shows appeared first on Search Engine Journal .",
+    "title": "Google Adds Branded &#038; Multimodal Data To Search Console API via @sejournal, @MattGSouthern",
+    "summary": "The Search Analytics API now supports branded query classification, multimodal search data, and filters for several countries or devices in one request. The post Google Adds Branded &#038; Multimodal Data To Search Console API appeared first on Search Engine Journal .",
     "body": [
-      "Early ChatGPT Ads data shows competition for ad budgets, while performance comparisons depend on click prices, attribution and outcomes. The post ChatGPT Ads Vs. Google Search Ads: What Early Data Shows appeared first on Search Engine Journal .",
+      "The Search Analytics API now supports branded query classification, multimodal search data, and filters for several countries or devices in one request. The post Google Adds Branded &#038; Multimodal Data To Search Console API appeared first on Search Engine Journal .",
       "Hisar Hospital tarafında bu gelişme içerik kalitesi, arama görünürlüğü, landing page dönüşümü ve operasyonel otomasyon başlıklarında değerlendirilebilir."
     ],
     "category": "SEO / GEO",
     "sourceName": "Search Engine Journal",
-    "url": "https://www.searchenginejournal.com/chatgpt-ads-vs-google-search-ads-early-data/597125/",
-    "publishedAt": "2026-11-16T13:00:58.000Z",
-    "slug": "chatgpt-ads-vs-google-search-ads-what-early-data-shows-via-sejournal-mattgsouthern"
+    "url": "https://www.searchenginejournal.com/google-branded-multimodal-search-console-api/597693/",
+    "publishedAt": "2026-11-17T08:00:55.000Z",
+    "slug": "google-adds-branded-038-multimodal-data-to-search-console-api-via-sejournal-mattgsouthern"
   },
   "articles": [
+    {
+      "title": "Google Adds Branded &#038; Multimodal Data To Search Console API via @sejournal, @MattGSouthern",
+      "summary": "The Search Analytics API now supports branded query classification, multimodal search data, and filters for several countries or devices in one request. The post Google Adds Branded &#038; Multimodal Data To Search Console API appeared first on Search Engine Journal .",
+      "body": [
+        "The Search Analytics API now supports branded query classification, multimodal search data, and filters for several countries or devices in one request. The post Google Adds Branded &#038; Multimodal Data To Search Console API appeared first on Search Engine Journal .",
+        "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
+      ],
+      "category": "SEO / GEO",
+      "sourceName": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/google-branded-multimodal-search-console-api/597693/",
+      "publishedAt": "2026-11-17T08:00:55.000Z",
+      "readingTime": "3 dk",
+      "slug": "google-adds-branded-038-multimodal-data-to-search-console-api-via-sejournal-mattgsouthern"
+    },
+    {
+      "title": "AI Sped Up The Build: How Can Accessibility Testing Keep Up?",
+      "summary": "AI has sped up how teams design and build, but quality assurance (QA) testing hasn’t kept pace, and the web may be getting less accessible. Drawing on new research, Andrew Chung explains what separates the teams whose accessibility efforts are keeping up, and how to embed human judgment into AI-enabled workflows without slowing delivery.",
+      "body": [
+        "AI has sped up how teams design and build, but quality assurance (QA) testing hasn’t kept pace, and the web may be getting less accessible. Drawing on new research, Andrew Chung explains what separates the teams whose accessibility efforts are keeping up, and how to embed human judgment into AI-enabled workflows without slowing delivery.",
+        "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
+      ],
+      "category": "Web Tasarım",
+      "sourceName": "Smashing Magazine",
+      "url": "https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/",
+      "publishedAt": "2026-11-17T08:00:00.000Z",
+      "readingTime": "3 dk",
+      "slug": "ai-sped-up-the-build-how-can-accessibility-testing-keep-up"
+    },
+    {
+      "title": "When The WordPress Plugin Update Is The Security Risk: Why SEOs Should Pay Attention via @sejournal, @cshel",
+      "summary": "Compromised WordPress plugins can introduce security threats and SEO problems. Recent supply-chain attacks reveal why software updates, vendor trust, and verification deserve closer scrutiny. The post When The WordPress Plugin Update Is The Security Risk: Why SEOs Should Pay Attention appeared first on Search Engine Journal .",
+      "body": [
+        "Compromised WordPress plugins can introduce security threats and SEO problems. Recent supply-chain attacks reveal why software updates, vendor trust, and verification deserve closer scrutiny. The post When The WordPress Plugin Update Is The Security Risk: Why SEOs Should Pay Attention appeared first on Search Engine Journal .",
+        "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
+      ],
+      "category": "SEO / GEO",
+      "sourceName": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/when-the-wordpress-plugin-update-is-the-security-risk-why-seos-should-pay-attention/595622/",
+      "publishedAt": "2026-11-16T15:00:34.000Z",
+      "readingTime": "3 dk",
+      "slug": "when-the-wordpress-plugin-update-is-the-security-risk-why-seos-should-pay-attention-via-se"
+    },
+    {
+      "title": "Patrick Reinhart On The Golden Metric In AI Search: Brand Recommendations via @sejournal, @lorenbaker",
+      "summary": "Your brand got cited, but did AI recommend you? Patrick Reinhart of Conductor shares what enterprise teams should measure and fix first. The post Patrick Reinhart On The Golden Metric In AI Search: Brand Recommendations appeared first on Search Engine Journal .",
+      "body": [
+        "Your brand got cited, but did AI recommend you? Patrick Reinhart of Conductor shares what enterprise teams should measure and fix first. The post Patrick Reinhart On The Golden Metric In AI Search: Brand Recommendations appeared first on Search Engine Journal .",
+        "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
+      ],
+      "category": "SEO / GEO",
+      "sourceName": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/patrick-reinhart-on-the-golden-metric-in-ai-search-brand-recommendations/597056/",
+      "publishedAt": "2026-11-17T13:00:47.000Z",
+      "readingTime": "3 dk",
+      "slug": "patrick-reinhart-on-the-golden-metric-in-ai-search-brand-recommendations-via-sejournal-lor"
+    },
+    {
+      "title": "OpenAI, yapay zeka güvenliği için bağımsız araştırmacıları şirket içine dahil ediyor",
+      "summary": "OpenAI, yapay zeka modellerinin güvenliğini bağımsız uzmanlarla değerlendirmek amacıyla yeni bir program başlattığını açıkladı. Şirket, Apollo Research, Goodfire, METR ve Transluce ile anlaşarak bu ku...",
+      "body": [
+        "OpenAI, yapay zeka modellerinin güvenliğini bağımsız uzmanlarla değerlendirmek amacıyla yeni bir program başlattığını açıkladı. Şirket, Apollo Research, Goodfire, METR ve Transluce ile anlaşarak bu ku...",
+        "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
+      ],
+      "category": "Dijital Pazarlama",
+      "sourceName": "Webrazzi",
+      "url": "https://webrazzi.com/2026/11/17/openai-yapay-zeka-guvenligi-icin-bagimsiz-arastirmacilari-sirket-icine-dahil-ediyor/",
+      "publishedAt": "2026-11-17T09:00:00.000Z",
+      "readingTime": "3 dk",
+      "slug": "openai-yapay-zeka-guvenligi-icin-bagimsiz-arastirmacilari-sirket-icine-dahil-ediyor"
+    },
+    {
+      "title": "Google&#8217;s Ask Maps Starts Finding Appointments &#038; Calling Businesses via @sejournal, @MattGSouthern",
+      "summary": "Ask Maps is starting to find appointments online and call local businesses for customers. Here's what Business Profile says about Google's automated calls. The post Google&#8217;s Ask Maps Starts Finding Appointments &#038; Calling Businesses appeared first on Search Engine Journal .",
+      "body": [
+        "Ask Maps is starting to find appointments online and call local businesses for customers. Here's what Business Profile says about Google's automated calls. The post Google&#8217;s Ask Maps Starts Finding Appointments &#038; Calling Businesses appeared first on Search Engine Journal .",
+        "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
+      ],
+      "category": "SEO / GEO",
+      "sourceName": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/google-ask-maps-appointments-business-calls/597678/",
+      "publishedAt": "2026-11-17T01:13:51.000Z",
+      "readingTime": "3 dk",
+      "slug": "google-8217-s-ask-maps-starts-finding-appointments-038-calling-businesses-via-sejournal-ma"
+    },
     {
       "title": "ChatGPT Ads Vs. Google Search Ads: What Early Data Shows via @sejournal, @MattGSouthern",
       "summary": "Early ChatGPT Ads data shows competition for ad budgets, while performance comparisons depend on click prices, attribution and outcomes. The post ChatGPT Ads Vs. Google Search Ads: What Early Data Shows appeared first on Search Engine Journal .",
@@ -31,123 +115,39 @@
       "slug": "chatgpt-ads-vs-google-search-ads-what-early-data-shows-via-sejournal-mattgsouthern"
     },
     {
-      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
-      "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals that generates an",
+      "title": "Google Haritalar, yapay zeka destekli \"Ask Maps\" ile gezi planlayıp randevu alabilecek",
+      "summary": "Google, Gemini destekli Ask Maps sohbet botuna yeni özellikler ekleyerek Google Haritalar’ı gezi planlama ve günlük işlerin yönetiminde daha etkin bir asistana dönüştürüyor. Android ve iOS’ta kullanım...",
       "body": [
-        "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals that generates an",
-        "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
-      ],
-      "category": "AI",
-      "sourceName": "The Verge AI",
-      "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
-      "publishedAt": "2026-11-16T01:26:56.000Z",
-      "readingTime": "3 dk",
-      "slug": "apple-s-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools"
-    },
-    {
-      "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
-      "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
-      "body": [
-        "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
-        "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
-      ],
-      "category": "AI",
-      "sourceName": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
-      "publishedAt": "2026-11-16T12:30:00.000Z",
-      "readingTime": "3 dk",
-      "slug": "freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm"
-    },
-    {
-      "title": "Higher Spend Came With Pricier Clicks For 14 B2B Google Advertisers via @sejournal, @MattGSouthern",
-      "summary": "One agency's data on 14 B2B advertisers finds the same non-brand Google Ads keywords cost more per click, even after controlling for their own spending. The post Higher Spend Came With Pricier Clicks For 14 B2B Google Advertisers appeared first on Search Engine Journal .",
-      "body": [
-        "One agency's data on 14 B2B advertisers finds the same non-brand Google Ads keywords cost more per click, even after controlling for their own spending. The post Higher Spend Came With Pricier Clicks For 14 B2B Google Advertisers appeared first on Search Engine Journal .",
-        "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
-      ],
-      "category": "SEO / GEO",
-      "sourceName": "Search Engine Journal",
-      "url": "https://www.searchenginejournal.com/b2b-google-ads-keywords-cost-more-agency-data/597426/",
-      "publishedAt": "2026-11-15T11:30:33.000Z",
-      "readingTime": "3 dk",
-      "slug": "higher-spend-came-with-pricier-clicks-for-14-b2b-google-advertisers-via-sejournal-mattgsou"
-    },
-    {
-      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
-      "body": [
-        "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
-        "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
-      ],
-      "category": "AI",
-      "sourceName": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-      "publishedAt": "2026-11-15T23:30:00.000Z",
-      "readingTime": "3 dk",
-      "slug": "indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market"
-    },
-    {
-      "title": "Toplantı notları, sesli dikte ve yapay zeka ajanlarını bir araya getiren yeni uygulama: ElevenAI",
-      "summary": "Yapay zeka destekli ses teknolojileriyle tanınan ElevenLabs, toplantı notları, sesli dikte ve yapay zeka ajanlarını bir araya getiren yeni uygulaması ElevenAI'ı tanıttı. Şirket, yeni ürünüyle ekipleri...",
-      "body": [
-        "Yapay zeka destekli ses teknolojileriyle tanınan ElevenLabs, toplantı notları, sesli dikte ve yapay zeka ajanlarını bir araya getiren yeni uygulaması ElevenAI'ı tanıttı. Şirket, yeni ürünüyle ekipleri...",
+        "Google, Gemini destekli Ask Maps sohbet botuna yeni özellikler ekleyerek Google Haritalar’ı gezi planlama ve günlük işlerin yönetiminde daha etkin bir asistana dönüştürüyor. Android ve iOS’ta kullanım...",
         "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
       ],
       "category": "Dijital Pazarlama",
       "sourceName": "Webrazzi",
-      "url": "https://webrazzi.com/2026/11/16/toplanti-notlari-sesli-dikte-ve-yapay-zeka-ajanlarini-bir-araya-getiren-yeni-uygulama-elevenai/",
-      "publishedAt": "2026-11-16T11:00:00.000Z",
+      "url": "https://webrazzi.com/2026/11/17/google-haritalar-yapay-zeka-destekli-ask-maps-ile-gezi-planlayip-randevu-alabilecek/",
+      "publishedAt": "2026-11-17T12:00:00.000Z",
       "readingTime": "3 dk",
-      "slug": "toplanti-notlari-sesli-dikte-ve-yapay-zeka-ajanlarini-bir-araya-getiren-yeni-uygulama-elev"
+      "slug": "google-haritalar-yapay-zeka-destekli-ask-maps-ile-gezi-planlayip-randevu-alabilecek"
     },
     {
-      "title": "Webrazzi Sessions: AI'ın ilk konuşmacıları belli oldu!",
-      "summary": "Paribu Art Terminal Kadıköy'de gerçekleştireceğimiz Webrazzi Sessions, teknoloji dünyasındaki hızlı değişimi farklı formatlar ve odaklı içeriklerle ele almayı hedefliyor. Gerçek kullanım senaryolarını...",
+      "title": "Gemini Notebook, notları ve belgeleri etkileşimli web sitelerine dönüştürüyor",
+      "summary": "Google, yapay zeka destekli araştırma aracı Gemini Notebook'a etkileşimli web sitesi oluşturma özelliği ekledi. Kullanıcılar, bir not defterine ekledikleri belgeler, notlar ve diğer kaynaklardan etkil...",
       "body": [
-        "Paribu Art Terminal Kadıköy'de gerçekleştireceğimiz Webrazzi Sessions, teknoloji dünyasındaki hızlı değişimi farklı formatlar ve odaklı içeriklerle ele almayı hedefliyor. Gerçek kullanım senaryolarını...",
+        "Google, yapay zeka destekli araştırma aracı Gemini Notebook'a etkileşimli web sitesi oluşturma özelliği ekledi. Kullanıcılar, bir not defterine ekledikleri belgeler, notlar ve diğer kaynaklardan etkil...",
         "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
       ],
       "category": "Dijital Pazarlama",
       "sourceName": "Webrazzi",
-      "url": "https://webrazzi.com/2026/11/16/webrazzi-sessions-ai-in-ilk-konusmacilari-belli-oldu/",
-      "publishedAt": "2026-11-16T08:00:00.000Z",
+      "url": "https://webrazzi.com/2026/11/17/gemini-notebook-notlari-ve-belgeleri-etkilesimli-web-sitelerine-donusturuyor/",
+      "publishedAt": "2026-11-17T10:00:00.000Z",
       "readingTime": "3 dk",
-      "slug": "webrazzi-sessions-ai-in-ilk-konusmacilari-belli-oldu"
-    },
-    {
-      "title": "OpenAI, yapay zeka ajanlarının alışveriş yapmasını sağlayan ChatGPT Wallet'ı tanıttı",
-      "summary": "OpenAI, yapay zeka ajanlarının kullanıcılar adına alışveriş yapıp ödeme sürecini tamamlamasını sağlayan ChatGPT Wallet'ı tanıttı. American Express, Mastercard ve Visa ile birlikte geliştirilen özellik...",
-      "body": [
-        "OpenAI, yapay zeka ajanlarının kullanıcılar adına alışveriş yapıp ödeme sürecini tamamlamasını sağlayan ChatGPT Wallet'ı tanıttı. American Express, Mastercard ve Visa ile birlikte geliştirilen özellik...",
-        "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
-      ],
-      "category": "Dijital Pazarlama",
-      "sourceName": "Webrazzi",
-      "url": "https://webrazzi.com/2026/11/16/openai-yapay-zeka-ajanlarinin-alisveris-yapmasini-saglayan-chatgpt-walleti-tanitti/",
-      "publishedAt": "2026-11-16T07:00:00.000Z",
-      "readingTime": "3 dk",
-      "slug": "openai-yapay-zeka-ajanlarinin-alisveris-yapmasini-saglayan-chatgpt-wallet-i-tanitti"
-    },
-    {
-      "title": "Apple launches new app to study how people use AI for health",
-      "summary": "Apple's new app for a study will answer everyday medical questions",
-      "body": [
-        "Apple's new app for a study will answer everyday medical questions",
-        "Dijital Radar bu gelişmeyi dijital pazarlama, web tasarım, SEO, AI veya sağlık teknolojileri açısından takip edilmesi gereken başlıklar arasına aldı."
-      ],
-      "category": "AI",
-      "sourceName": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
-      "publishedAt": "2026-11-16T01:30:00.000Z",
-      "readingTime": "3 dk",
-      "slug": "apple-launches-new-app-to-study-how-people-use-ai-for-health"
+      "slug": "gemini-notebook-notlari-ve-belgeleri-etkilesimli-web-sitelerine-donusturuyor"
     }
   ],
   "highlights": [
-    "SEO / GEO: ChatGPT Ads Vs. Google Search Ads: What Early Data Shows via @sejournal, @MattGSouthern",
-    "AI: Apple’s new study looks to improve the effectiveness of AI health tools",
-    "AI: Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
-    "SEO / GEO: Higher Spend Came With Pricier Clicks For 14 B2B Google Advertisers via @sejournal, @MattGSouthern"
+    "SEO / GEO: Google Adds Branded &#038; Multimodal Data To Search Console API via @sejournal, @MattGSouthern",
+    "Web Tasarım: AI Sped Up The Build: How Can Accessibility Testing Keep Up?",
+    "SEO / GEO: When The WordPress Plugin Update Is The Security Risk: Why SEOs Should Pay Attention via @sejournal, @cshel",
+    "SEO / GEO: Patrick Reinhart On The Golden Metric In AI Search: Brand Recommendations via @sejournal, @lorenbaker"
   ],
   "quickNotes": [
     "AI arama deneyimleri SEO ve içerik stratejisini doğrudan etkiliyor.",
